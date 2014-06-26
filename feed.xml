@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Dynabots</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-06-25T23:05:51-07:00</updated>
+<id>/</id>
+<author>
+  <name></name>
+  <uri>/</uri>
+  <email></email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Affinity Mapping of the Secondary Research Done to Date]]></title>
+  <link>/personal/affinity_mapping_of_the_secondary_research_done_to_date</link>
+  <id>/personal/affinity_mapping_of_the_secondary_research_done_to_date</id>
+  <published>2014-06-09T00:00:00-07:00</published>
+  <updated>2014-06-09T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;affinity-mapping-of-the-secondary-research-done-to-date&quot;&gt;Affinity Mapping of the Secondary Research Done to Date&lt;/h1&gt;
+&lt;p&gt;###Activity and Process
+Our team is really good at research. I mean, when I say, really good, I really mean it. We can go through tons and tons of articles in matter of a couple of days. But what happens next? Where can we go from there? How do all these individual pieces of knowledge contribute to the bigger picture of project? With hundred of notes in our Mendeley Account, we were starting to think we will never be able to effectively realize the value of research we have done. However, with our dedication to using the best practices in the design and research process, we decided to try an Affinity Mapping Exercise—a method that Karen Holtzblatt (InContext Design) puts so much emphasis on as a primary method of consolidating research findings.&lt;/p&gt;
+
+&lt;p&gt;We started by individually going through the papers we had read, summarizing the highlights on Post-Its and explaining them to the other team members as they put the Post-It on the board. We filled out multiple whiteboards and got kicked out of two different libraries because they were closing. In the end, we had identified major themes on our Post-Its and had started to categorize them into those themes (clusters). We then did a pass through the information on the board, eliminating redundant facts and pieces of information that were way outside of our scope or irrelevant to our current direction.&lt;/p&gt;
+
+&lt;p&gt;Having organized our Post-Its into clusters, we then started to find connections and overlays between the different clusters. Specifically, we worked to establish relationships between the clusters of 3D gesture technologies and the clusters of publishing industry information.&lt;/p&gt;
+
+&lt;p&gt;With two giant whiteboards full of information, we had managed to boil down and categorize our research findings into clusters that we could work to dig deeper or dismiss as irrelevant to our current focus.  &lt;/p&gt;
+
+&lt;h3 id=&quot;activity-findings&quot;&gt;Activity Findings&lt;/h3&gt;
+&lt;p&gt;We formed groups around problems, types, and properties of gesture technology; print and digital media; mobile platforms; content delivery; storytelling platforms; the focus of media coverage; user-contributed content; revenue and advertising; business models; audience; inter-business sharing of content; and social sharing. After looking at these groups, we felt that there were opportunities in the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The intersection of social-sharing, storytelling platforms, reader-generated content, and gesture technology&lt;/li&gt;
+  &lt;li&gt;Relationships between print media, digital media, and the changing focus of coverage &lt;/li&gt;
+  &lt;li&gt;Consumers, news media, and content creation (from stakeholder map)
+For better access and retrieval of this valuable research artifact, we decided to digitize this big diagram using OmniGraffle. Below are the handwritten and digital versions of our affinity diagram.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;implications-for-design&quot;&gt;Implications for Design&lt;/h3&gt;
+&lt;p&gt;Having concluded our primary phase of secondary research, we are planning on using this diagram as a useful way of determining and guiding our primary research activities. Furthermore, having a consolidated source of current trends, information, and technology has helped us greatly in achieving a common mental model and understanding of the problem space we are working with.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/affinity_mapping_of_the_secondary_research_done_to_date&quot;&gt;Affinity Mapping of the Secondary Research Done to Date&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 09, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Mobile Intervention]]></title>
+  <link>/personal/the_mobile_intervention</link>
+  <id>/personal/the_mobile_intervention</id>
+  <published>2014-06-05T00:00:00-07:00</published>
+  <updated>2014-06-05T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.41025641025641%;&quot;&gt;&lt;img src=&quot;/images/generated/the_mobile_intervention/heuristic evaluation flipboard-750x423-0aab40.jpg&quot; srcset=&quot;/images/generated/the_mobile_intervention/heuristic evaluation flipboard-750x423-0aab40.jpg 562w, /images/generated/the_mobile_intervention/heuristic evaluation flipboard-750x423-0aab40.jpg 562w 2x, /images/generated/the_mobile_intervention/heuristic evaluation flipboard-1500x846-0aab40.jpg 2x, /images/generated/the_mobile_intervention/heuristic evaluation flipboard-750x423-0aab40.jpg&quot; alt=&quot;Fipboard screenshot&quot; width=&quot;750&quot; height=&quot;423&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;#The Mobile Intervention&lt;/p&gt;
+
+&lt;h3 id=&quot;activity-and-process&quot;&gt;Activity and Process&lt;/h3&gt;
+
+&lt;p&gt;From our ongoing secondary research, it was evidently clear that revenue earned by ads on print media is declining, and that many well-known people in the print industry have started or have already transitioned to the digital news industry. But, what is more interesting is that this transition has been catalyzed by the introduction of smart phones. Smartphones are can mostly be categorized as always available devices, which can be easily used between two activities and are non intrusive. They can easily fill in any free gaps between two activities. The ubiquitous and low barrier in consuming content using a smartphone proved more fatal for the traditional print media. To gain further insights around this topic we first gathered observations from various sources such as the Pew Research and others, and plotted an affinity diagram.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-does-that-mean&quot;&gt;What Does that Mean?&lt;/h3&gt;
+
+&lt;p&gt;The key insight was that news media content is increasingly being read on mobile devices, regardless of the medium it’s in and moreover mobile consumption is becoming more and more popular. Furthermore, we discovered that age group plays a part in the amount of mobile consumption. Pew Research Center Project has found that more young people consume news online, especially women, and that women in the age group of 25 to 49 consumed the most content on smartphones.&lt;/p&gt;
+
+&lt;p&gt;However, the shift to online and mobile news consumption has also started to change not just the medium of news consumption, but also the behavior of readers consuming the news. Pew Research found that young people are more likely to “graze” the news, which means that they do not read or watch news at a set time of day as older generations used to. Research has also shown that mobile readers are more likely to read headlines on mobile, but usually wait until they are on a tablet or desktop computer to read the full article.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+
+&lt;p&gt;These insights tell us that we need to be aware of different age groups in our design, as well as the likelihood of developing a mobile solution. We might also want to research novel mobile interactions.&lt;/p&gt;
+
+&lt;p&gt;These insights reiterate the probable importance of mobile in our future research and design activities. If the trend is truly heading towards cursory reading on mobile, we also need to research the advertiser’s role on mobile platforms, especially native ads. Also, Ad revenue from subtle ads may become even more important if the reader’s attention span is short. &lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/personal/the_mobile_intervention&quot;&gt;The Mobile Intervention&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Expert Interview with Scott Saponas]]></title>
+  <link>/personal/expert_interview_with_scott_saponas</link>
+  <id>/personal/expert_interview_with_scott_saponas</id>
+  <published>2014-06-05T00:00:00-07:00</published>
+  <updated>2014-06-05T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;expert-interview-with-scott-saponas&quot;&gt;Expert Interview with Scott Saponas&lt;/h1&gt;
+
+&lt;h3 id=&quot;activity-and-process&quot;&gt;Activity and Process&lt;/h3&gt;
+&lt;p&gt;Early this June we conducted an expert interview with T. Scott Saponas at Microsoft Research. Scott’s expertise in Human Computer Interaction, specifically with experimental input and output technologies and always-available, context-aware computing, seemed like a useful resource for our project as we explore potential ways of interaction with media. The interview was a good way to quickly gain insight into the field of input and gesture technology and supplement what we found through secondary and some primary research that we previously did. We had several questions for him:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What types of interactions are harder to do with 3D gestures and why?&lt;/li&gt;
+  &lt;li&gt;How do 3D gestures make certain interactions easier and why?&lt;/li&gt;
+  &lt;li&gt;What do you see as the future of 3D gesture interfaces?&lt;/li&gt;
+  &lt;li&gt;How might spatial sensing change our daily interactions with personal devices?
+Specifically, how might this change how we consume content on these devices?&lt;/li&gt;
+  &lt;li&gt;How do you think media content could be made context-aware?&lt;/li&gt;
+  &lt;li&gt;What media types would actually feel compelling to interact with or consume using new
+input techniques?&lt;/li&gt;
+  &lt;li&gt;What could 3D interactions with media give us that current media does not?&lt;/li&gt;
+  &lt;li&gt;What content could be created with context-aware input and interfaces?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.48936170212765%;&quot;&gt;&lt;img src=&quot;/images/generated/expert_interview_with_scott_saponas/scott-750x499-668351.jpg&quot; srcset=&quot;/images/generated/expert_interview_with_scott_saponas/scott-750x499-668351.jpg 562w, /images/generated/expert_interview_with_scott_saponas/scott-750x499-668351.jpg 562w 2x, /images/generated/expert_interview_with_scott_saponas/scott-1500x996-668351.jpg 2x, /images/generated/expert_interview_with_scott_saponas/scott-750x499-668351.jpg&quot; alt=&quot;Scott Saponas&quot; width=&quot;750&quot; height=&quot;498&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;key-findings-and-takeaway&quot;&gt;Key Findings and Takeaway&lt;/h3&gt;
+&lt;p&gt;Outlined below are some of the key insights we got from the interview.&lt;/p&gt;
+
+&lt;h4 id=&quot;challenges-of-3d-gestures&quot;&gt;Challenges of 3D Gestures&lt;/h4&gt;
+&lt;p&gt;We got valuable insights into challenges and considerations in designing for systems that use 3D manipulation and gestures from this conversation. Interactions with 3D gestures are hard because we are used to the idea of direct manipulation with a mouse or touch screen. On the system’s end, it is hard to interpret intentions and separate gestures from other movements. Furthermore, for gesture input and 3D manipulation, the gulf of evaluation is harder to bridge than the gulf of execution. Immediate response and feedback on the input is very important. It becomes really hard when the feedback loop is broken or is very slow. A major advantage of 3D interaction is unanchored interaction. The fact that whatever you are using to manipulate is not physically anchored to the device opens up a lot of possibilities for both design and potential problems simultaneously.&lt;/p&gt;
+
+&lt;h4 id=&quot;designing-for-3d-gestures&quot;&gt;Designing for 3D Gestures&lt;/h4&gt;
+&lt;p&gt;The key is to design the system around an assumption that tasks will afford experimentation and that errors are inherent. The system needs to be designed for better error correction such that the possible errors are not that critical. The penalty for wrong/inaccurate input should be low. Responsiveness is another important thing to keep in mind.&lt;/p&gt;
+
+&lt;h4 id=&quot;spatial-sensing-and-future&quot;&gt;Spatial Sensing and Future&lt;/h4&gt;
+&lt;p&gt;The most powerful and transformative thing about spatial sensing is that it enables the ability
+to import personal space into a computer simulation system; capturing the real world and
+transferring it to others. Scott believes people will likely pay a lot for that and this will likely be a big change in sensor use on phones in the future. There are possible applications of such technology in retail, consulting businesses, and service design.&lt;/p&gt;
+
+&lt;h4 id=&quot;new-media-forms-enabled-by-input-technology&quot;&gt;New Media Forms Enabled by Input Technology&lt;/h4&gt;
+&lt;p&gt;Scott mentioned 3D manipulation and augmented reality are two compelling areas to explore. With new forms of interaction like depth cameras, precise control is going to be hard, but he believes these can be very engaging if you incorporate tactile interaction and enable physical manipulation.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-content-and-media-needs-to-evolve&quot;&gt;How Content and Media Needs to Evolve&lt;/h4&gt;
+&lt;p&gt;In Scott’s opinion, even though technology has changed a lot, the media we consume hasn’t
+evolved much in the last few years. There should be ways to interact with what we are
+consuming. Everything is currently linear. Future of media should be interactive and two -
+directional, not linear. A good, simple example is the ability to change the camera angle on a
+movie to discover more about the space and immerse yourself in it.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+&lt;p&gt;We got a great deal of insight out of our conversation with Scott. Among other things, Scott confirmed our hunch that new forms of interactive media could be very critical to affecting real change in the publishing space. Also, Scott pushed the idea that gesture interfaces can trade precision for exploration, which is a powerful restraint that can help us avoid gestural interface designs that require a level of accuracy that simply isn’t attainable.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/expert_interview_with_scott_saponas&quot;&gt;Expert Interview with Scott Saponas&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Devising a Stakeholder Map]]></title>
+  <link>/personal/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space</link>
+  <id>/personal/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space</id>
+  <published>2014-06-05T00:00:00-07:00</published>
+  <updated>2014-06-05T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;devising-a-stakeholder-map-in-20-minutes-connecting-the-dots-between-the-key-players-in-the-problem-space&quot;&gt;Devising a Stakeholder Map in 20 minutes: Connecting the Dots Between the Key Players in The Problem Space&lt;/h1&gt;
+&lt;p&gt;###Activity and Process
+We chose to do a stakeholder map because we wanted to better understand the relationships between the stakeholders and how value passes between them. More specifically, we wanted to see what values in addition to money were passing between stakeholders. We started by writing all the stakeholders we could think of on post-it notes. Once that was finished, we grouped related post-it notes on a large sheet of butcher paper. When we had managed to group all of the post-it notes, we came up with overarching group titles for each cluster of stakeholders. The main groups were determined to be publishing platforms, consumers, content creators, platform providers, and funders. The final step was to determine how value passed between the large groups of stakeholders as well as between individual stakeholders.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.87373737373737%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder Map Photo-750x562-863cc6.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder Map Photo-750x562-863cc6.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder Map Photo-750x562-863cc6.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder Map Photo-1500x1122-863cc6.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder Map Photo-750x562-863cc6.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;561&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-1500x1000-42122a.JPG 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; alt=&quot;Stakeholder map digital&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;key-observations-and-takeaways&quot;&gt;Key Observations and Takeaways&lt;/h3&gt;
+&lt;p&gt;Looking back, this exercise was a little surprising in how similar to an affinity diagram it turned out to be. Instead of research insights, we had stakeholders, and instead of themes, we had stakeholder groups. One of the challenges we had with this exercise was actually determining the difference between content creators and consumers. In one sense, the news media companies and employees were the main content creators, but news consumers could leave comments on that content, or start debates about the content among friends. Hence, consumers became somewhat of a secondary content creator. In the end, we decided that the comments and debates were one way that consumers passed value back to the media companies.&lt;/p&gt;
+
+&lt;p&gt;This exercise was also successful because the entire team was contributing to it at the same time. We all came up with stakeholders and agreed on groupings and relationships, which helped to get us all on the same page and see the big picture. We had also decided to set a 20 minute time limit on this exercise in light of our remaining tasks at the time, and were able to successfully complete the stakeholder map in this timeframe. Consequently, we discovered that time limits in certain situations can help us to make decisions and be more efficient with our time.&lt;/p&gt;
+
+&lt;p&gt;One additional takeaway came out of our effort to create a digital illustration of our stakeholder map. Creating this illustration gave us a chance to follow graphic design principles, resulting in better organization, better visual enclosure of the groups, and neatly drawn and labelled interactions between stakeholders. Our program director and others felt that all these improvements greatly added to their comprehension of the map. We found the illustrated version to be much more useful to us as well, so it’s likely that we’ll be doing many more “cleaned up” versions of our frameworking in the future.
+###Implications for Design and Moving Forward
+The creation of the stakeholder map ultimately helped us to see how the different stakeholder groups rely on each other, and what they expect from each other in terms of value. For instance, we determined that the content creators relied on funders such as advertisers for revenue, which allowed them to present content to consumers and (hopefully) turn a number of those consumers into subscribers, who would in turn create more revenue for the content creators. This map also allowed us to discover that many of the relationships between stakeholders are complex, which in turn helped us to narrow which relationships we wanted to focus on for our next steps. At the end of the exercise, we had decided to focus on the relationship between content creators and consumers. This focus led us to come up with a tentative design question, and will serve to narrow our future research and prototyping activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Media needed: Stakeholder map graphic (assets folder)&lt;/em&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/personal/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space&quot;&gt;Devising a Stakeholder Map&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Ideation To Guide Research]]></title>
+  <link>/personal/ideation_to_guide_research_what_do_you_do_when_the_research_area_is_too_vast</link>
+  <id>/personal/ideation_to_guide_research_what_do_you_do_when_the_research_area_is_too_vast</id>
+  <published>2014-05-29T00:00:00-07:00</published>
+  <updated>2014-05-29T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;ideation-to-guide-research-what-youd-do-when-the-research-area-is-too-vast&quot;&gt;Ideation To Guide Research: What You’d do when The Research Area is too Vast&lt;/h1&gt;
+&lt;p&gt;What happens when the area you are approaching is too vast to even know which part you are want to research? How do you narrow down your research areas, so that the research you do is effective and meaningful? After all, none of us likes to read tons of academic articles for no purpose! We were given a wide topic area: 3D Gestures and Digital Publication. Ok, So now what? Where do we start? We started by general term queries, and soon realized there was too much diversity to be able to conduct the research with general term queries. So, we decided to do an ideation session within the research. In a way, we decided to do an affinity diagram of the potential research paths we could take, to be able to focus our research.
+We started  with the theme of “Experience of 3D Published Content”, and then began to define it.
+What do we mean by experience? We defined it as feeling that you are in the action. You are part of the content you are consuming.
+3D: Why do we even need 3D? What value does 3D content add to our content?
+Published: what kind of publishing pattern and mode are we interested in? Daily, weekly, or monthly? Explanatory or Investigatory?
+Content: What type of content are we talking about? Are we referring to 3D text content? (Hope not, cause that would be dizzying!), How about images. videos, and objects?&lt;/p&gt;
+
+&lt;p&gt;Then we started writing out all the content types, varieties, topics, and manipulation techniques that we thought would be interesting or meaningful if delivered within a 3D medium. Furthermore, along with each Post-It that a team member put up, we explained why it would be a good idea to have that content in 3D. In a way, we started thinking about all the different ways 3D could be used. Even how people would be able to interact with their pets from a distance! 
+Next, we decided to arrange our suggestions in clusters(themes), and tried to find connections between the the different clusters.   What resulted from this exercise was certain defined paths that we could now take in furthering our research. For example, some of our clusters were:
+Long lived (longer shelf life than newspapers, like magazines)
+Social Collaboration and Sharing
+Explorations in space and time
+3D Visualization as an added layer of information for content communication&lt;/p&gt;
+
+&lt;p&gt;What came out of this exercise? Clarity on how to pursue our research from here. We decided on pursuing three main topic areas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Can 3D visualization be an additional layer of meaningful data for object and/or space exploration?&lt;/li&gt;
+  &lt;li&gt;What experience does the publisher want to deliver?&lt;/li&gt;
+  &lt;li&gt;What experiences do people expect from publishers? Does it match the experience that the publishers want to deliver?&lt;/li&gt;
+&lt;/ol&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/personal/ideation_to_guide_research_what_do_you_do_when_the_research_area_is_too_vast&quot;&gt;Ideation To Guide Research&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Contextual Interview at The Daily]]></title>
+  <link>/personal/contextual_interview_at_the_daily</link>
+  <id>/personal/contextual_interview_at_the_daily</id>
+  <published>2014-05-29T00:00:00-07:00</published>
+  <updated>2014-05-29T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;contextual-interview-at-the-daily&quot;&gt;Contextual Interview at The Daily&lt;/h1&gt;
+
+&lt;h3 id=&quot;process-and-activity&quot;&gt;Process and Activity&lt;/h3&gt;
+&lt;p&gt;As we found from our secondary research, the publishing space is vast and filled with many unsolved problems. With more print publishers starting to integrate a digital presence, there is  a need to continue producing quality journalism, increase consumer engagement, integrate new technologies, and discover new, successful business models. Furthermore, our research revealed that in addition to platforms and methods of consumption of news and media, the type of news content is also changing. Additionally, on the ideation side, we were starting to also look at content creation as a possible direction in addition to how content is consumed. We figured that a good way to dig into this space effectively was to start talking to publishers. For this we chose to do contextual interviews at The Daily, a student run newspaper at the University of Washington, Seattle. We visited their newsroom during peak activity hours of 9-11 PM and spoke to their Editor-in-Chief, Content Editor and Arts Editor.&lt;/p&gt;
+
+&lt;p&gt;Moreover, we thoroughly observed the workflow at the The Daily, which we noticed was very complex. There was a lot of back and forth exchange of content and media between writers, editors, designers and photographers. They currently use multiple tools, and in some cases have to use different sharing platforms for different types of media. This further adds to the complexity. A better collaborative system would be more supportive of this complicated exchange and editing process.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 45.54597701149425%;&quot;&gt;&lt;img src=&quot;/images/generated/contextual_interview_at_the_daily/IMG_2186 (Best Panorama)-750x342-7c7168.JPG&quot; srcset=&quot;/images/generated/contextual_interview_at_the_daily/IMG_2186 (Best Panorama)-750x342-7c7168.JPG 562w, /images/generated/contextual_interview_at_the_daily/IMG_2186 (Best Panorama)-750x342-7c7168.JPG 562w 2x, /images/generated/contextual_interview_at_the_daily/IMG_2186 (Best Panorama)-1500x682-7c7168.JPG 2x, /images/generated/contextual_interview_at_the_daily/IMG_2186 (Best Panorama)-750x342-7c7168.JPG&quot; alt=&quot;Newsroom at The Daily&quot; width=&quot;750&quot; height=&quot;341&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.69135802469135%;&quot;&gt;&lt;img src=&quot;/images/generated/contextual_interview_at_the_daily/IMG_4313-750x560-375b5e.JPG&quot; srcset=&quot;/images/generated/contextual_interview_at_the_daily/IMG_4313-750x560-375b5e.JPG 562w, /images/generated/contextual_interview_at_the_daily/IMG_4313-750x560-375b5e.JPG 562w 2x, /images/generated/contextual_interview_at_the_daily/IMG_4313-1500x1120-375b5e.JPG 2x, /images/generated/contextual_interview_at_the_daily/IMG_4313-750x560-375b5e.JPG&quot; alt=&quot;Newsroom at The Daily&quot; width=&quot;750&quot; height=&quot;560&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/contextual_interview_at_the_daily/IMG_20140528_212011-750x563-5e0fb8.jpg&quot; srcset=&quot;/images/generated/contextual_interview_at_the_daily/IMG_20140528_212011-750x563-5e0fb8.jpg 562w, /images/generated/contextual_interview_at_the_daily/IMG_20140528_212011-750x563-5e0fb8.jpg 562w 2x, /images/generated/contextual_interview_at_the_daily/IMG_20140528_212011-1500x1124-5e0fb8.jpg 2x, /images/generated/contextual_interview_at_the_daily/IMG_20140528_212011-750x563-5e0fb8.jpg&quot; alt=&quot;Newsroom at The Daily&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;key-findings-and-observations&quot;&gt;Key Findings and Observations&lt;/h3&gt;
+&lt;p&gt;It was apparent that they were aware of the need to work towards integrating interactivity and moving more toward their digital platform, however, access to the required resources and expertise seem to be a deterrent. The usefulness of a seamless way of integrating media and interactive elements like audio, video, slideshows etc also came up as we spoke to the editors. In terms of comparing their digital vs. print presence, surprisingly, we found that print is still their first priority and most stories - with the exception of breaking news stories that need an immediate push - are published for print and converted to the digital version with additional content as a later step. However, they do maintain an active digital presence on social media websites like Facebook and Twitter and have an iPad app. Interestingly, their statistics showed that their homepage gets low views because for the online content, most page visits occur via social media links which point straight to articles. This is interesting because it starts to show how social media changes the way news is consumed.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-project-next-steps&quot;&gt;Implications for Design and Project Next Steps&lt;/h3&gt;
+&lt;p&gt;What came out of this study encouraged us to dig deeper into the publishing industry, its shift from print to digital and the effect of social media and new forms of media. As a next step we did a thorough review and analysis of the Pew Research Center’s Journalism Project on the State of the News Media 2014.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/contextual_interview_at_the_daily&quot;&gt;Contextual Interview at The Daily&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Competitive Look at the Media Industry]]></title>
+  <link>/personal/a_competitive_look_at_the_media_industry</link>
+  <id>/personal/a_competitive_look_at_the_media_industry</id>
+  <published>2014-05-29T00:00:00-07:00</published>
+  <updated>2014-05-29T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;a-competitive-look-at-the-media-industry-and-where-its-going&quot;&gt;A Competitive Look at the Media Industry (and where it’s going)&lt;/h1&gt;
+&lt;p&gt;### Activity and Process
+While researching the publishing industry for our capstone project, we started thinking:&lt;/p&gt;
+
+&lt;p&gt;Okay, we know about all these different publishers, from newspapers to cable networks, but what different kinds of media are they producing, and at what frequency? Weekly? Daily? Hourly? What’s that space look like, and where are there gaps? Where do we think we can contribute?&lt;/p&gt;
+
+&lt;p&gt;Mapping our knowledge of the publishing industry proved to be a challenge, especially as we constructed two different axes for our visualization. We’d been thinking a lot about present and future content experiences a while before, so we developed a vertical &lt;strong&gt;“media type”&lt;/strong&gt; axis with different “notches” corresponding to content such as text, photos, static graphics, all the way up to multimedia such as video, movies, and even virtual reality environments.&lt;/p&gt;
+
+&lt;p&gt;From there, the horizontal axis fell into place: we realized it should represent “publishing frequency”. Together the two axes let us visually represent a wide range of content, from hourly Twitter posts, to weekly magazine issues, to yearly documentary productions.&lt;/p&gt;
+
+&lt;p&gt;Here’s where the chart started getting a little crazy: no one publishing company really has a single niche in this space anymore! Even a “traditional” publisher like The New York Times has a web presence with blogs and video content, for example. Hence, we drew a handful of publishers on the chart as “ribbons” to depict the range of content types and publishing frequencies they typically cover.&lt;/p&gt;
+
+&lt;p&gt;There are several dimensions that we couldn’t cover in this visualization, such as audience size, the amount of content produced, and level of interactivity. In the end, that’s the joy and sorrow of research frameworks: you can’t always account for every force in the world, but you can make sense of a few key influences, at least.&lt;/p&gt;
+
+&lt;p&gt;Without further adieu, then, let’s just present the chart and see what you make of it:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MEDIA MISSING&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;key-findings-and-takeaways&quot;&gt;Key Findings and Takeaways&lt;/h3&gt;
+&lt;p&gt;As shown in the diagram, media organizations such as CNN, which indeed started life as a then-novel “cable news network”, have expanded both their format and frequency coverage over the years, sometimes in a “downward” fashion, chasing the high-frequency text content area of the space. This expansion gives the organization and the brand the ability to operate in a “continuous” nature across different media types. Expansion also gives publishers a measure of resilience against adverse market changes, such as the slowly looming and long-foretold death of print media, as NYT and Time have realized.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+&lt;p&gt;Anyway, where are the gaps in this space? The “low-fidelity”, high-frequency corner of the chart is pretty crowded, but there might be some headroom up in the “Future” box—an area representing interactive, immersive multimedia content, published on a less frequent schedule. Content like this would probably take more time and money to produce, but there are organizations with the resources and editorial interest in such a space, such as National Geographic.&lt;/p&gt;
+
+&lt;p&gt;We need to explore and interview more to investigate the potential in this space, but the use of our own wild ideas for a visualization framework proved to be very useful indeed. &lt;/p&gt;
+
+&lt;p&gt;Furthermore, we can use this activity, which in essence was a distant observation activity of what’s currently being produced out there, to further narrow down our project scope. We now know that our target publication modality should be those with frequencies closer to weekly and monthly editions and content types that are more expository or exploratory in nature.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/personal/a_competitive_look_at_the_media_industry&quot;&gt;A Competitive Look at the Media Industry&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Hello!!]]></title>
+  <link>/first-post</link>
+  <id>/first-post</id>
+  <updated>2014-05-28T00:00:00-00:00</updated>
+  <published>2014-05-28T00:00:00-07:00</published>
+  
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;first-post&quot;&gt;First Post&lt;/h1&gt;
+
+&lt;h3 id=&quot;hello-humans&quot;&gt;Hello Humans!&lt;/h3&gt;
+
+&lt;p&gt;We are just getting to boot! Beep-Boop&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/first-post&quot;&gt;Hello!!&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 28, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Intel Portland Trip]]></title>
+  <link>/personal/intel_portland_trip;_put_a_bird_on_it</link>
+  <id>/personal/intel_portland_trip;_put_a_bird_on_it</id>
+  <published>2014-05-24T00:00:00-07:00</published>
+  <updated>2014-05-24T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;intel-portland-trip-put-a-bird-on-it&quot;&gt;Intel Portland Trip; put a bird on it&lt;/h1&gt;
+
+&lt;h3 id=&quot;activity-and-process&quot;&gt;Activity and Process&lt;/h3&gt;
+&lt;p&gt;Our team scheduled a meeting with Mike Premi at the Intel’s Jones Farm campus at Hillsboro, OR for May 24th. We packed a Mini Cooper with four of us and drove all the way from Seattle to Hillsboro. Our fifth member joined online using conference software once the meeting was rolling. We were warmly welcomed and started off by getting to know each other a bit better. Next we dove into the discussions around project ideas. As we signed an NDA with Intel, we won’t be able to disclose major portions of the meeting. Overall, the meeting was successful and we were invited for a dinner at a nearby sushi restaurant. The day didn’t end here; overwhelmed with ideas shown and discussions we had with Mike, we couldn’t stop ourselves from having an ideation session in our hotel room.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 133.33333333333331%;&quot;&gt;&lt;img src=&quot;/images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_20140524_174550-750x1000-3cb992.jpg&quot; srcset=&quot;/images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_20140524_174550-750x1000-3cb992.jpg 562w, /images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_20140524_174550-750x1000-3cb992.jpg 562w 2x, /images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_20140524_174550-1500x2000-3cb992.jpg 2x, /images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_20140524_174550-750x1000-3cb992.jpg&quot; alt=&quot;Joe and food&quot; width=&quot;750&quot; height=&quot;1000&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_7134-750x500-90aca5.JPG&quot; srcset=&quot;/images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_7134-750x500-90aca5.JPG 562w, /images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_7134-750x500-90aca5.JPG 562w 2x, /images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_7134-1500x1000-90aca5.JPG 2x, /images/generated/intel_portland_trip;_put_a_bird_on_it/IMG_7134-750x500-90aca5.JPG&quot; alt=&quot;Hotel room ideation&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;&amp;lt;Slideshow - Joe’s Paper Notes&amp;gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;key-observations-and-takeaway&quot;&gt;Key Observations and Takeaway&lt;/h3&gt;
+&lt;p&gt;The meeting with Mike helped us better understand the constraints that we will be working under. Primarily, the underlying goal is to make the Intel’s tablets and 2-in-1’s using Perceptual Technology more valuable, with a further focus on changing the publishing industry. The meeting also helped us gained a ton of insights and possible directions from design solutions we were shown. We were questioning the rationale behind some of these solutions, which led us to identify gaps and possible interventions in the problem space. We were asking ourselves questions like:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We need to create 3D content first to be able consume later. How can journalists create compelling 3D content?&lt;/li&gt;
+  &lt;li&gt;How can we create a coffee table-like experience in the digital world? The emotion is missing.&lt;/li&gt;
+  &lt;li&gt;Explorative vs. Imaginative. Books vs. Movies. Explore vs. Explain.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+&lt;p&gt;The meeting had a huge impact on the direction that we were earlier intending to take our project towards. The recognized constraints will help us channel the project. We also convinced ourselves that the publish space is full of interesting and compelling opportunities.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/intel_portland_trip;_put_a_bird_on_it&quot;&gt;Intel Portland Trip&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 24, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Wii Sports Resort Usability Evaluation]]></title>
+  <link>/personal/wii_sports_resort_usability_evaluation</link>
+  <id>/personal/wii_sports_resort_usability_evaluation</id>
+  <published>2014-05-22T00:00:00-07:00</published>
+  <updated>2014-05-22T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;wii-sports-resort-usability-evaluation&quot;&gt;Wii Sports Resort Usability Evaluation&lt;/h1&gt;
+&lt;p&gt;###Activity and Process
+One of our research hypotheses was that interacting with an active 3D gesture interface, where interactions are communicated with the main device through a remote or supplementary device, such as the Wii remote would be easier and more enjoyable than interacting with hand gestures alone (Passive 3D gesture systems like Kinect). Therefore, We conducted a usability test on the Wii, testing both generic Wii menu interactions, and the gameplay interactions on a game called Wii Sports Resort. We first asked participants about their general gameplay habits and if they were familiar with the Wii. Participants were asked to open the game from the Wii home menu, and navigate to both the Swordplay and Table Tennis games. They were then asked to play a couple rounds of each game. After two rounds of a game had been completed, we interviewed the participants about their experience playing the game: what they thought about the controls, level of difficulty, and their level of enjoyment. After both games had been completed, we asked them to rate their overall experience of gameplay, and to give specific examples.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.69135802469135%;&quot;&gt;&lt;img src=&quot;/images/generated/wii_sports_resort_usability_evaluation/5-750x560-a49201.JPG&quot; srcset=&quot;/images/generated/wii_sports_resort_usability_evaluation/5-750x560-a49201.JPG 562w, /images/generated/wii_sports_resort_usability_evaluation/5-750x560-a49201.JPG 562w 2x, /images/generated/wii_sports_resort_usability_evaluation/5-1500x1120-a49201.JPG 2x, /images/generated/wii_sports_resort_usability_evaluation/5-750x560-a49201.JPG&quot; alt=&quot;Participant 1 Chaoyu using wii sports resort&quot; width=&quot;750&quot; height=&quot;560&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/wii_sports_resort_usability_evaluation/IMG_20140522_180012-750x563-43d266.jpg&quot; srcset=&quot;/images/generated/wii_sports_resort_usability_evaluation/IMG_20140522_180012-750x563-43d266.jpg 562w, /images/generated/wii_sports_resort_usability_evaluation/IMG_20140522_180012-750x563-43d266.jpg 562w 2x, /images/generated/wii_sports_resort_usability_evaluation/IMG_20140522_180012-1500x1124-43d266.jpg 2x, /images/generated/wii_sports_resort_usability_evaluation/IMG_20140522_180012-750x563-43d266.jpg&quot; alt=&quot;Participant 2 Anna using wii sports resort&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;key-observations-and-takeaway&quot;&gt;Key Observations and Takeaway&lt;/h3&gt;
+&lt;p&gt;Based on what we saw during gameplay, we came up with a tentative theory as to why some users may prefer remote-assisted gestures to pure hand gestures: The remote, in this case the Wii remote, was something tangible to the user, and so the user felt more in control of their actions when using the remote versus using only their hands. In completing this exercise, we rediscovered the value of conducting a usability test with novice users. In addition to this being a good practice in general when attracting and keeping new customers, we also found that features we took for granted were not necessarily obvious or easy to use for novice users. We also discovered one of the challenges of conducting a usability test on a game: Think-aloud protocol, i.e. getting the tester to talk about what they are doing or feeling while using an interface, is not necessarily a good idea in the context of testing a game. We found that when our participants had to think about what they were doing and articulate it to us in the moment, their gameplay suffered. This in turn created a feedback loop of talking about challenges and frustrations, which caused their performance to suffer. Consequently, our task completion time findings were not as accurate as they could’ve been.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+&lt;p&gt;Based on our observations and participant responses, we think the tangibility and haptic feedback of a physical controller provides a more concrete mapping, helping the user to feel more in-control of the situation.
+Our findings have indicated the importance of visual feedback and mapping when designing an interface. Speed, interval between action/result, and force are something else to consider when designing gestures. The Wii interface is something we will keep in mind once we start prototyping.&lt;/p&gt;
+
+&lt;p&gt;Once we thought about our findings, we realized something else interesting: Do users generally prefer active 3D gestures because they are much more responsive and accurate than their passive counterparts? Would their preference change if the passive ones were just as good as the active ones? What if they were better? In order to address these questions, we have planned to do a second round of usability testing, this time incorporating a Wizard-Of-Oz method: What would happen if we Wizard-Of-Oz the passive 3D interactions systems so that they are performing as well as the active ones? We have planned this research activity for the week of June 23rd. &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Media Needed:
+Usability Testing Image (research —&amp;gt; evaluative research —&amp;gt; photos from heuristic analysis and usability testing)&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/wii_sports_resort_usability_evaluation&quot;&gt;Wii Sports Resort Usability Evaluation&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Heuristic Evaluation of the Nintendo Wii]]></title>
+  <link>/personal/heuristic_evaluation_of_the_nintendo_wii</link>
+  <id>/personal/heuristic_evaluation_of_the_nintendo_wii</id>
+  <published>2014-05-22T00:00:00-07:00</published>
+  <updated>2014-05-22T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;heuristic-evaluation-of-the-nintendo-wii&quot;&gt;Heuristic Evaluation of the Nintendo Wii&lt;/h1&gt;
+&lt;p&gt;###Activity and Process
+In order to better understand a generally well-regarded area of the current gesture technology product space, we chose to do a heuristic evaluation, or expert usability test, of the Wii system and a specific game, Wii Sports Resort. In keeping with best practices,we chose to follow Nielsen’s Ten Standards of Usability Heuristics, but also added metrics that we felt were specifically relevant to gameplay. We created a paper form that we could use to keep track of interface problems, heuristic violations, and other notes about the experience of the interface. We also rated the problems with regards to the severity of the violation. When evaluating the interface, we went through every aspect of the generic Wii menu that we could find, the Wii Sports Resort menu, and a few more Wii apps and Sports Resort games in addition to the games we were evaluating in the usability test.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/IMG_20140522_164842-750x563-833e48.jpg&quot; srcset=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/IMG_20140522_164842-750x563-833e48.jpg 562w, /images/generated/heuristic_evaluation_of_the_nintendo_wii/IMG_20140522_164842-750x563-833e48.jpg 562w 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/IMG_20140522_164842-1500x1124-833e48.jpg 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/IMG_20140522_164842-750x563-833e48.jpg&quot; alt=&quot;The team working on heuristic evaluation&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.69135802469135%;&quot;&gt;&lt;img src=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/4-750x560-1bc3f9.JPG&quot; srcset=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/4-750x560-1bc3f9.JPG 562w, /images/generated/heuristic_evaluation_of_the_nintendo_wii/4-750x560-1bc3f9.JPG 562w 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/4-1500x1120-1bc3f9.JPG 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/4-750x560-1bc3f9.JPG&quot; alt=&quot;Wii instructions during practice sessions&quot; width=&quot;750&quot; height=&quot;560&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.69135802469135%;&quot;&gt;&lt;img src=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/7-750x560-b72648.JPG&quot; srcset=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/7-750x560-b72648.JPG 562w, /images/generated/heuristic_evaluation_of_the_nintendo_wii/7-750x560-b72648.JPG 562w 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/7-1500x1120-b72648.JPG 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/7-750x560-b72648.JPG&quot; alt=&quot;Wii instructions during practice sessions&quot; width=&quot;750&quot; height=&quot;560&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;key-observations-and-takeaway&quot;&gt;Key Observations and Takeaway&lt;/h3&gt;
+&lt;p&gt;Though we found the inclusion of specific gameplay metrics to be useful, these metrics also made it harder to evaluate the interface based on problems alone, because we were looking for specific gameplay violations rather than categorizing the problems we found under certain heuristics. However, we did learn firsthand the value of conducting both heuristic evaluations and usability tests with end users, because it enabled us to spot the differences in the user experience for people like ourselves who are very familiar with that interface type, versus novice users. More specifically, there were cases where features that we thought were well-designed and obvious were in fact not obvious to people outside of our research group. Hence, underlining the need for combining heuristic analysis with a usability study.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+&lt;p&gt;Though many of our metrics were specific to the gaming world, we realized that some of these metrics could still be applied to any gesture-based interface. These metrics included the ability to pause a current action, the ability to go backwards through menu levels easily, and the ability to exit a program whenever the user wishes.
+The results of this evaluation have caused us to think about what heuristics would be most valuable in the evaluation of a 3D setting, and which actions would be essential to a gesture-based interaction model. Completing this evaluation has also given us a foundation for how we might go about finding the most essential visuals and tasks that a user might need for a gesture-based interface, and how to evaluate them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Media Needed:
+Heuristic Evaluation of Wii Image (photos and video folder)
+Consent Form (research —&amp;gt; evaluative Research folder)
+Our Heuristic Evaluation Form (research —&amp;gt; evaluative Research folder)
+Our list of Metrics (research —&amp;gt; evaluative Research folder)
+Our Analysis Spreadsheet (research —&amp;gt; evaluative Research folder)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;heuristic-evaluation-of-flipboard&quot;&gt;Heuristic Evaluation of Flipboard&lt;/h1&gt;
+&lt;p&gt;Exercise Summary
+We chose to do a heuristic evaluation of the app Flipboard, because it is a relatively popular news consumption platform. We started the evaluation on a Windows tablet, and then switched to an Android tablet and an Android smartphone to find out if there were platform differences. &lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.41025641025641%;&quot;&gt;&lt;img src=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/heuristic evaluation flipboard-750x423-0aab40.jpg&quot; srcset=&quot;/images/generated/heuristic_evaluation_of_the_nintendo_wii/heuristic evaluation flipboard-750x423-0aab40.jpg 562w, /images/generated/heuristic_evaluation_of_the_nintendo_wii/heuristic evaluation flipboard-750x423-0aab40.jpg 562w 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/heuristic evaluation flipboard-1500x846-0aab40.jpg 2x, /images/generated/heuristic_evaluation_of_the_nintendo_wii/heuristic evaluation flipboard-750x423-0aab40.jpg&quot; alt=&quot;Screenshots from the heuristic evaluation of Flipboard&quot; width=&quot;750&quot; height=&quot;423&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;reflections-on-this-technique&quot;&gt;Reflections on this Technique&lt;/h3&gt;
+&lt;p&gt;As this was our second heuristic evaluation, we were able to take what we had learned from the Wii heuristic evaluation and apply it to this exercise. Specifically, this involved finding problems first and categorizing them later, rather than looking for specific metrics. What was challenging with this technique was deciding which heuristics a problem violated. This was occasionally resolved by deciding that a problem violated more than one heuristic. However, an unexpected benefit of this exercise was discovering the value of testing an interface on more than one platform when possible. Through testing the app on both a Windows and Android platform, we were able to discover interface inconsistencies that may not have been found if we had only looked at one platform.&lt;/p&gt;
+
+&lt;h3 id=&quot;reflections-on-our-design-process&quot;&gt;Reflections on our Design Process&lt;/h3&gt;
+&lt;p&gt;The main insight we discovered was that the aggregation app suffered from a common problem with aggregation: pulling from multiple sites increases the likelihood of inconsistent and confusing formats between articles. Therefore, we now want to research other aggregation sites to see how others are tackling the inconsistency problem, so that our designs don’t run into the same problem. In general, we learned that it is a good idea to evaluate not only popular interfaces, but also unique and innovative interfaces for design inspiration.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Media Needed:
+Photos from Research Summary deliverable
+6-06 Flipboard Heuristic Analysis screenshot (Research)&lt;/em&gt;&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/personal/heuristic_evaluation_of_the_nintendo_wii&quot;&gt;Heuristic Evaluation of the Nintendo Wii&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Minority Report, Are we there yet?]]></title>
+  <link>/personal/minority_report,_are_we_there_yet</link>
+  <id>/personal/minority_report,_are_we_there_yet</id>
+  <published>2014-05-15T00:00:00-07:00</published>
+  <updated>2014-05-15T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;minority-report-are-we-there-yet&quot;&gt;Minority Report, Are we there yet?&lt;/h1&gt;
+
+&lt;h3 id=&quot;activity-and-process&quot;&gt;Activity and Process&lt;/h3&gt;
+&lt;p&gt;After secondary research on gesture input technologies, we decided to examine several gesture based systems firsthand in order to test our personal assumptions about how gesture interfaces are implemented today. We decided to do an ethnographic study of Kinect to test the accuracy of gestures, the intuitiveness of the interaction model and how it compared with the interaction models like Wii, which use a remote instead of just hand gestures. We were also curious to know how first time users do with the use of gestures. Our thought behind this activity was that these observations would help us understand gesture-based interaction styles and learn about what works and what needs improvement to incorporate in future prototypes that we will develop for the project.&lt;/p&gt;
+
+&lt;p&gt;We visited the Microsoft Store in University Village to interact with the Xbox One’s system menus with Kinect gestures in an environment where, just like us, the average customer would receive their first introduction to the interface. Four of us from the team who were new to the Kinect interface tried it out as first time users, and the others observed. We also observed two store employees attempt to use the Kinect.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/minority_report,_are_we_there_yet/IMG_20140515_185510-750x563-91643a.jpg&quot; srcset=&quot;/images/generated/minority_report,_are_we_there_yet/IMG_20140515_185510-750x563-91643a.jpg 562w, /images/generated/minority_report,_are_we_there_yet/IMG_20140515_185510-750x563-91643a.jpg 562w 2x, /images/generated/minority_report,_are_we_there_yet/IMG_20140515_185510-1500x1124-91643a.jpg 2x, /images/generated/minority_report,_are_we_there_yet/IMG_20140515_185510-750x563-91643a.jpg&quot; alt=&quot;Joe trying the xbox settings menu&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;key-observations-and-takeaway&quot;&gt;Key Observations and Takeaway&lt;/h3&gt;
+&lt;p&gt;With everyone that tried the system during this study, one prominent issue we came across was the lack of acknowledgement and feedback. There was no visual feedback in the form of a cursor to show actual hand gesture pointing position. The only visual feedback shown was a very thin box around the selection. This was causing confusion to the users who did not know when their gestures were working. In fact when there was more than one person in the vicinity, there was confusion about whose movements were actually initiating what the system was responding with. In one instance during our observation, we noticed that the user could not get out of a certain screen and used a workaround they claim to use often with the Kinect system; i.e. switching it off and back on. The previous example and other similar observations like unintentional selections, error prevention and correction were principles that were clearly important to us and the others using the system. There is also a lack of clarity on screen space mapping . A positive that we noticed was how the system differentiated and provided visual cues by showing voice commands in green (not related to gestures, but a good example of discoverability).&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.69135802469135%;&quot;&gt;&lt;img src=&quot;/images/generated/minority_report,_are_we_there_yet/photo 5-750x560-04c4f5.JPG&quot; srcset=&quot;/images/generated/minority_report,_are_we_there_yet/photo 5-750x560-04c4f5.JPG 562w, /images/generated/minority_report,_are_we_there_yet/photo 5-750x560-04c4f5.JPG 562w 2x, /images/generated/minority_report,_are_we_there_yet/photo 5-1500x1120-04c4f5.JPG 2x, /images/generated/minority_report,_are_we_there_yet/photo 5-750x560-04c4f5.JPG&quot; alt=&quot;Microsoft employee trying kinect&quot; width=&quot;750&quot; height=&quot;560&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/minority_report,_are_we_there_yet/IMG_7043-750x500-aad4ed.JPG&quot; srcset=&quot;/images/generated/minority_report,_are_we_there_yet/IMG_7043-750x500-aad4ed.JPG 562w, /images/generated/minority_report,_are_we_there_yet/IMG_7043-750x500-aad4ed.JPG 562w 2x, /images/generated/minority_report,_are_we_there_yet/IMG_7043-1500x1000-aad4ed.JPG 2x, /images/generated/minority_report,_are_we_there_yet/IMG_7043-750x500-aad4ed.JPG&quot; alt=&quot;Microsoft employee trying kinect&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-moving-forward&quot;&gt;Implications for Design and Moving Forward&lt;/h3&gt;
+&lt;p&gt;These observations gave us a lot to think about in terms of designing systems that use gesture input. For one, feedback is critical. Responsiveness and immediate feedback to right or wrong actions is essential. Findings from this ethnographic observation have given us a good understanding of what works and what does not in gesture input systems. These will become our guiding principles for the interaction design of any concept that we decide to go with as the project progresses.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/personal/minority_report,_are_we_there_yet&quot;&gt;Minority Report, Are we there yet?&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Introducing Team Dynabots]]></title>
+  <link>/personal/introducing_team_dynabots</link>
+  <id>/personal/introducing_team_dynabots</id>
+  <published>2014-05-15T00:00:00-07:00</published>
+  <updated>2014-05-15T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.25%;&quot;&gt;&lt;img src=&quot;/images/generated/introducing_team_dynabots/Team Collage-750x422-6dce1f.png&quot; srcset=&quot;/images/generated/introducing_team_dynabots/Team Collage-750x422-6dce1f.png 562w, /images/generated/introducing_team_dynabots/Team Collage-750x422-6dce1f.png 562w 2x, /images/generated/introducing_team_dynabots/Team Collage-1500x842-6dce1f.png 2x, /images/generated/introducing_team_dynabots/Team Collage-750x422-6dce1f.png&quot; alt=&quot;Team Members Portrait Collage&quot; width=&quot;750&quot; height=&quot;421&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;# Introducing Team Dynabots&lt;/p&gt;
+
+&lt;p&gt;Hello there! We are Team Dynabots: Alma, Aniket, Joe, Carolyn, and Rijuta. We’re a team of Human-Computer Interaction + Design grad students at the University of Washington. For our capstone project, we are conceptualizing the future of journalism and interactive content together with a team of mentors and our project sponsor, Intel.&lt;/p&gt;
+
+&lt;p&gt;As a diverse and talented team with significant experience in design research, physical prototyping, and software development, the chance to build something critically interesting and novel, backed by good reasoning and thorough research, is super compelling. So compelling, in fact, that we intend to submit a publication about our project to a conference, such as CHI 2015.&lt;/p&gt;
+
+&lt;p&gt;We are certainly a team of passionate individuals, so we aim to leave debates in meetings when those passions flare up. We also intend to do our best work and not stop at anything less—this may make for long nights, but we owe this to ourselves and each other. Our drive for excellence is what keeps us going.&lt;/p&gt;
+
+&lt;p&gt;Here’s a bit more about each of us—where we come from and what we’re interested in:
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 177.99999999999997%;&quot;&gt;&lt;img src=&quot;/images/generated/introducing_team_dynabots/Alma-600x1068-cfaf18.jpg&quot; srcset=&quot;/images/generated/introducing_team_dynabots/Alma-600x1068-cfaf18.jpg 450w, /images/generated/introducing_team_dynabots/Alma-600x1068-cfaf18.jpg 450w 2x, /images/generated/introducing_team_dynabots/Alma-600x1068-cfaf18.jpg 2x, /images/generated/introducing_team_dynabots/Alma-600x1068-cfaf18.jpg&quot; alt=&quot;Alma Emadi&quot; width=&quot;600&quot; height=&quot;1068&quot; /&gt;&lt;/figure&gt;
+&lt;strong&gt;Alma Emadi&lt;/strong&gt; received her undergraduate degree in Industrial and Systems Engineering from University of Washington with a focus in Human Factors and Ergonomics. She has conducted multiple year-long research studies in that domain. After graduation, she worked as an Operations Manager at an MRI facility before returning to UW for her masters degree. Her learning goals are develop a deeper understanding of available prototyping techniques and be able to conduct effective user research quickly.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 100.0%;&quot;&gt;&lt;img src=&quot;/images/generated/introducing_team_dynabots/Aniket-750x750-3b9515.jpg&quot; srcset=&quot;/images/generated/introducing_team_dynabots/Aniket-750x750-3b9515.jpg 562w, /images/generated/introducing_team_dynabots/Aniket-750x750-3b9515.jpg 562w 2x, /images/generated/introducing_team_dynabots/Aniket-1177x1177-3b9515.jpg 2x, /images/generated/introducing_team_dynabots/Aniket-750x750-3b9515.jpg&quot; alt=&quot;Aniket Handa&quot; width=&quot;750&quot; height=&quot;750&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Aniket Handa&lt;/strong&gt; earned a Masters and a Bachelors degree in Computer Science &amp;amp; Engineering from Jaypee Institute of Information Technology before enrolling for another Masters degree at University of Washington. His interests include ubiquitous computing, computer vision, new emerging input techniques, and data visualization. His goals are to polish his rapid functional prototyping skills and practice various design methods.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 100.0%;&quot;&gt;&lt;img src=&quot;/images/generated/introducing_team_dynabots/Joe-750x750-2a29f9.jpg&quot; srcset=&quot;/images/generated/introducing_team_dynabots/Joe-750x750-2a29f9.jpg 562w, /images/generated/introducing_team_dynabots/Joe-750x750-2a29f9.jpg 562w 2x, /images/generated/introducing_team_dynabots/Joe-1500x1500-2a29f9.jpg 2x, /images/generated/introducing_team_dynabots/Joe-750x750-2a29f9.jpg&quot; alt=&quot;Joe Kohlmann&quot; width=&quot;750&quot; height=&quot;750&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Joe Kohlmann&lt;/strong&gt; earned a B.S in Computer Sciences from the University of Wisconsin–Madison, after which he spent a year working as a research intern in both a virtual reality lab and a data visualization lab. After working in multi-disciplinary teams on problems in HCI, visualization, interface design, user testing, and conference publishing, he turned west to attend the University of Washington to earn his masters degree. His goals are to apply his technical skills to rapid prototyping and design challenges and improve his use of research frameworks.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 100.0%;&quot;&gt;&lt;img src=&quot;/images/generated/introducing_team_dynabots/Carolyn-720x720-036801.JPG&quot; srcset=&quot;/images/generated/introducing_team_dynabots/Carolyn-720x720-036801.JPG 540w, /images/generated/introducing_team_dynabots/Carolyn-720x720-036801.JPG 540w 2x, /images/generated/introducing_team_dynabots/Carolyn-720x720-036801.JPG 2x, /images/generated/introducing_team_dynabots/Carolyn-720x720-036801.JPG&quot; alt=&quot;Carolyn Scoville&quot; width=&quot;720&quot; height=&quot;720&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Carolyn Scoville&lt;/strong&gt; received her undergraduate degree in Informatics at the University of Washington with a specialization in HCI. She has completed web production and UX internships, and works as a graduate assistant for the MHCI+D program. Her skills include wireframing, web design, and usability testing. Her learning goals are to develop her user research and prototyping skills.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 111.49825783972125%;&quot;&gt;&lt;img src=&quot;/images/generated/introducing_team_dynabots/Rijuta-750x836-301e25.jpg&quot; srcset=&quot;/images/generated/introducing_team_dynabots/Rijuta-750x836-301e25.jpg 562w, /images/generated/introducing_team_dynabots/Rijuta-750x836-301e25.jpg 562w 2x, /images/generated/introducing_team_dynabots/Rijuta-861x960-301e25.jpg 2x, /images/generated/introducing_team_dynabots/Rijuta-750x836-301e25.jpg&quot; alt=&quot;Rijuta Trivedi&quot; width=&quot;750&quot; height=&quot;836&quot; /&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Rijuta Trivedi&lt;/strong&gt; has a degree in Visual Design and has several years of experience working as a visual designer. Before joining UW for her masters degree, she has done work as a user experience designer. She also has a previous degree in Fashion Design. She is interested in Interaction Design and the User Centered Design approach. Her learning goals are to develop skills in user research, prototyping, and information visualization.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/introducing_team_dynabots&quot;&gt;Introducing Team Dynabots&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Contextual Interview at The Daily]]></title>
+  <link>/personal/a_marginally_better_world_of_publishing</link>
+  <id>/personal/a_marginally_better_world_of_publishing</id>
+  <published>2014-05-12T00:00:00-07:00</published>
+  <updated>2014-05-12T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;a-marginally-better-world-of-publishing&quot;&gt;A Marginally Better World of Publishing&lt;/h1&gt;
+
+&lt;h3 id=&quot;process-and-activity&quot;&gt;Process and Activity&lt;/h3&gt;
+&lt;p&gt;If you think about the wide range of published content out there on the Internet, you might end up, like we did, with a collection of three archetypal points on a continuum:&lt;/p&gt;
+
+&lt;p&gt;The typically high-quality, but often “linear” or “one-sided” work coming from in-house teams of writers and editors at “professional” news media outlets.
+New forms of “clickbait” journalism, coming from contributor platforms such as Forbes and Business Insider, the quality of which can be pretty middling at times.
+The diverse and occasionally insufficient world of user-generated journalism on the web, from blog posts to Internet comments.&lt;/p&gt;
+
+&lt;p&gt;Now, if you’re not feeling too good about the future of journalism, you might look at these points and graph them quite pessimistically onto into a “death spiral” of declining journalistic quality, as we’ve done below:&lt;/p&gt;
+
+&lt;p&gt;Now, that’s pretty gloomy, but it brings up another interesting point: this simple chart also describes something of a “trickle-down” model of derivative creative works. That is, readers comments on a “clickbait” article which sources information from a “professional” news report are all interconnected, in the end.&lt;/p&gt;
+
+&lt;p&gt;We don’t have an answer for “what” or “how” yet, but considering this model of journalism, a rising tide raises all boats, right? Could some new form of content elevate the quality of the entire system? Maybe it’s possible—for all we know, there’s A Marginally Better World for journalism waiting out there for us.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-findings-and-observations&quot;&gt;Key Findings and Observations&lt;/h3&gt;
+&lt;p&gt;Among all the other research and frameworking we’d done, this concept of journalistic quality inspired us to take the plunge into crafting a design question for our project. After many, many iterations, we finally hammered one out:&lt;/p&gt;
+
+&lt;p&gt;How can we use new forms of interactive content to remove the barrier between creation and consumption of high-integrity, valuable journalism?&lt;/p&gt;
+
+&lt;p&gt;Now, design questions serve two purposes: to give a project direction and focus, and to be endlessly picked apart, piece by tiny semantic piece. To bring some sanity to the latter activity, we qualified what we mean by “high-integrity” and “valuable journalism”:&lt;/p&gt;
+
+&lt;p&gt;“High-Integrity” means that the content that has been researched, fact-checked, and edited; it is above the quality and accuracy of random comments and blog posts on the Internet.&lt;/p&gt;
+
+&lt;p&gt;“Valuable Journalism” refers to content that provides something more stimulating than a simple “listicle”, and is capable of evoking thoughtful debates and critical thinking.&lt;/p&gt;
+
+&lt;p&gt;Depending on who you ask, these may well be the primary tenets of “true” journalism itself, and as such, we feel the need to support high standards for quality and integrity as much as possible through our work.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-project-next-steps&quot;&gt;Implications for Design and Project Next Steps&lt;/h3&gt;
+&lt;p&gt;Where do we go from here?
+Taking up the mantle of journalistic integrity is no easy feat, to be sure. To us, that means looking at media content through the lens of journalists: what can we do to help them produce great work? At the same time, there’s this possibility of elevating the quality of user-generated content: could there exist a system that could helps “consumers” create content that more powerfully enriches the source material? We don’t know yet, but this is a guiding principle, just like our principles of 3D gestural interfaces, that will serve us well as we begin to develop design concepts.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/personal/a_marginally_better_world_of_publishing&quot;&gt;Contextual Interview at The Daily&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 12, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
