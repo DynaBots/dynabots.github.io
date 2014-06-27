@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-06-26T16:09:26-07:00</updated>
+<updated>2014-06-27T01:49:51-07:00</updated>
 <id>/</id>
 <author>
   <name></name>
@@ -189,6 +189,54 @@ movie to discover more about the space and immerse yourself in it.&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;/blog/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space&quot;&gt;Devising a Stakeholder Map&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A marginally better World of Publishing]]></title>
+  <link>/blog/a_marginally_better_world_of_publishing</link>
+  <id>/blog/a_marginally_better_world_of_publishing</id>
+  <published>2014-06-05T00:00:00-07:00</published>
+  <updated>2014-06-05T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;process-and-activity&quot;&gt;Process and Activity&lt;/h3&gt;
+
+&lt;p&gt;If you think about the wide range of published content out there on the Internet, you might end up, like we did, with a collection of three archetypal points on a continuum:&lt;/p&gt;
+
+&lt;p&gt;The typically high-quality, but often “linear” or “one-sided” work coming from in-house teams of writers and editors at “professional” news media outlets.
+New forms of “clickbait” journalism, coming from contributor platforms such as Forbes and Business Insider, the quality of which can be pretty middling at times.
+The diverse and occasionally insufficient world of user-generated journalism on the web, from blog posts to Internet comments.&lt;/p&gt;
+
+&lt;p&gt;Now, if you’re not feeling too good about the future of journalism, you might look at these points and graph them quite pessimistically onto into a “death spiral” of declining journalistic quality, as we’ve done below:&lt;/p&gt;
+
+&lt;p&gt;Now, that’s pretty gloomy, but it brings up another interesting point: this simple chart also describes something of a “trickle-down” model of derivative creative works. That is, readers comments on a “clickbait” article which sources information from a “professional” news report are all interconnected, in the end.&lt;/p&gt;
+
+&lt;p&gt;We don’t have an answer for “what” or “how” yet, but considering this model of journalism, a rising tide raises all boats, right? Could some new form of content elevate the quality of the entire system? Maybe it’s possible—for all we know, there’s A Marginally Better World for journalism waiting out there for us.&lt;/p&gt;
+
+&lt;h3 id=&quot;key-findings-and-observations&quot;&gt;Key Findings and Observations&lt;/h3&gt;
+
+&lt;p&gt;Among all the other research and frameworking we’d done, this concept of journalistic quality inspired us to take the plunge into crafting a design question for our project. After many, many iterations, we finally hammered one out:&lt;/p&gt;
+
+&lt;p&gt;How can we use new forms of interactive content to remove the barrier between creation and consumption of high-integrity, valuable journalism?&lt;/p&gt;
+
+&lt;p&gt;Now, design questions serve two purposes: to give a project direction and focus, and to be endlessly picked apart, piece by tiny semantic piece. To bring some sanity to the latter activity, we qualified what we mean by “high-integrity” and “valuable journalism”:&lt;/p&gt;
+
+&lt;p&gt;“High-Integrity” means that the content that has been researched, fact-checked, and edited; it is above the quality and accuracy of random comments and blog posts on the Internet.&lt;/p&gt;
+
+&lt;p&gt;“Valuable Journalism” refers to content that provides something more stimulating than a simple “listicle”, and is capable of evoking thoughtful debates and critical thinking.&lt;/p&gt;
+
+&lt;p&gt;Depending on who you ask, these may well be the primary tenets of “true” journalism itself, and as such, we feel the need to support high standards for quality and integrity as much as possible through our work.&lt;/p&gt;
+
+&lt;h3 id=&quot;implications-for-design-and-project-next-steps&quot;&gt;Implications for Design and Project Next Steps&lt;/h3&gt;
+
+&lt;p&gt;Where do we go from here?
+Taking up the mantle of journalistic integrity is no easy feat, to be sure. To us, that means looking at media content through the lens of journalists: what can we do to help them produce great work? At the same time, there’s this possibility of elevating the quality of user-generated content: could there exist a system that could helps “consumers” create content that more powerfully enriches the source material? We don’t know yet, but this is a guiding principle, just like our principles of 3D gestural interfaces, that will serve us well as we begin to develop design concepts.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/a_marginally_better_world_of_publishing&quot;&gt;A marginally better World of Publishing&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -525,54 +573,6 @@ Photos from Research Summary deliverable
 &lt;p&gt;&lt;strong&gt;Rijuta Trivedi&lt;/strong&gt; has a degree in Visual Design and has several years of experience working as a visual designer. Before joining UW for her masters degree, she has done work as a user experience designer. She also has a previous degree in Fashion Design. She is interested in Interaction Design and the User Centered Design approach. Her learning goals are to develop skills in user research, prototyping, and information visualization.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;/blog/introducing_team_dynabots&quot;&gt;Introducing Team Dynabots&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Contextual Interview at The Daily]]></title>
-  <link>/blog/a_marginally_better_world_of_publishing</link>
-  <id>/blog/a_marginally_better_world_of_publishing</id>
-  <published>2014-05-12T00:00:00-07:00</published>
-  <updated>2014-05-12T00:00:00-07:00</updated>
-  <author>
-    <name></name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">&lt;h3 id=&quot;process-and-activity&quot;&gt;Process and Activity&lt;/h3&gt;
-
-&lt;p&gt;If you think about the wide range of published content out there on the Internet, you might end up, like we did, with a collection of three archetypal points on a continuum:&lt;/p&gt;
-
-&lt;p&gt;The typically high-quality, but often “linear” or “one-sided” work coming from in-house teams of writers and editors at “professional” news media outlets.
-New forms of “clickbait” journalism, coming from contributor platforms such as Forbes and Business Insider, the quality of which can be pretty middling at times.
-The diverse and occasionally insufficient world of user-generated journalism on the web, from blog posts to Internet comments.&lt;/p&gt;
-
-&lt;p&gt;Now, if you’re not feeling too good about the future of journalism, you might look at these points and graph them quite pessimistically onto into a “death spiral” of declining journalistic quality, as we’ve done below:&lt;/p&gt;
-
-&lt;p&gt;Now, that’s pretty gloomy, but it brings up another interesting point: this simple chart also describes something of a “trickle-down” model of derivative creative works. That is, readers comments on a “clickbait” article which sources information from a “professional” news report are all interconnected, in the end.&lt;/p&gt;
-
-&lt;p&gt;We don’t have an answer for “what” or “how” yet, but considering this model of journalism, a rising tide raises all boats, right? Could some new form of content elevate the quality of the entire system? Maybe it’s possible—for all we know, there’s A Marginally Better World for journalism waiting out there for us.&lt;/p&gt;
-
-&lt;h3 id=&quot;key-findings-and-observations&quot;&gt;Key Findings and Observations&lt;/h3&gt;
-
-&lt;p&gt;Among all the other research and frameworking we’d done, this concept of journalistic quality inspired us to take the plunge into crafting a design question for our project. After many, many iterations, we finally hammered one out:&lt;/p&gt;
-
-&lt;p&gt;How can we use new forms of interactive content to remove the barrier between creation and consumption of high-integrity, valuable journalism?&lt;/p&gt;
-
-&lt;p&gt;Now, design questions serve two purposes: to give a project direction and focus, and to be endlessly picked apart, piece by tiny semantic piece. To bring some sanity to the latter activity, we qualified what we mean by “high-integrity” and “valuable journalism”:&lt;/p&gt;
-
-&lt;p&gt;“High-Integrity” means that the content that has been researched, fact-checked, and edited; it is above the quality and accuracy of random comments and blog posts on the Internet.&lt;/p&gt;
-
-&lt;p&gt;“Valuable Journalism” refers to content that provides something more stimulating than a simple “listicle”, and is capable of evoking thoughtful debates and critical thinking.&lt;/p&gt;
-
-&lt;p&gt;Depending on who you ask, these may well be the primary tenets of “true” journalism itself, and as such, we feel the need to support high standards for quality and integrity as much as possible through our work.&lt;/p&gt;
-
-&lt;h3 id=&quot;implications-for-design-and-project-next-steps&quot;&gt;Implications for Design and Project Next Steps&lt;/h3&gt;
-
-&lt;p&gt;Where do we go from here?
-Taking up the mantle of journalistic integrity is no easy feat, to be sure. To us, that means looking at media content through the lens of journalists: what can we do to help them produce great work? At the same time, there’s this possibility of elevating the quality of user-generated content: could there exist a system that could helps “consumers” create content that more powerfully enriches the source material? We don’t know yet, but this is a guiding principle, just like our principles of 3D gestural interfaces, that will serve us well as we begin to develop design concepts.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/blog/a_marginally_better_world_of_publishing&quot;&gt;Contextual Interview at The Daily&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on May 12, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

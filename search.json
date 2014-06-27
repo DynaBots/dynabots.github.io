@@ -33,6 +33,14 @@
 		} ,
 	
 		{
+		  "title"      : "A marginally better World of Publishing",
+		  "category"   : "",
+		  "url"        : "/blog/a_marginally_better_world_of_publishing",
+		  "date"       : "2014-06-05 00:00:00 -0700",
+		  "shortdate"  : "June 05, 2014"
+		} ,
+	
+		{
 		  "title"      : "Ideation To Guide Research",
 		  "category"   : "",
 		  "url"        : "/blog/ideation_to_guide_research_what_do_you_do_when_the_research_area_is_too_vast",
@@ -94,14 +102,6 @@
 		  "url"        : "/blog/introducing_team_dynabots",
 		  "date"       : "2014-05-15 00:00:00 -0700",
 		  "shortdate"  : "May 15, 2014"
-		} ,
-	
-		{
-		  "title"      : "Contextual Interview at The Daily",
-		  "category"   : "",
-		  "url"        : "/blog/a_marginally_better_world_of_publishing",
-		  "date"       : "2014-05-12 00:00:00 -0700",
-		  "shortdate"  : "May 12, 2014"
 		} 
 	
 ]
