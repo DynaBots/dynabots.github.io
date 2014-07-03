@@ -68,6 +68,11 @@ callback([
   {
     "text": "Focus Group Planning and Feedback",
     "href": "/blog/focus_group_planning_and_feedback"
+  } ,
+
+  {
+    "text": "Project Plan Deliverable",
+    "href": "/blog/project_plan_deliverable"
   } 
 
 ])

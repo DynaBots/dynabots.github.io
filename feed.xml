@@ -4,13 +4,38 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-07-01T14:34:02-07:00</updated>
+<updated>2014-07-03T16:09:32-07:00</updated>
 <id>/</id>
 <author>
   <name></name>
   <uri>/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Project Plan Deliverable]]></title>
+  <link>/blog/project_plan_deliverable</link>
+  <id>/blog/project_plan_deliverable</id>
+  <published>2014-06-26T00:00:00-07:00</published>
+  <updated>2014-06-26T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 53.84615384615385%;&quot;&gt;&lt;a href=&quot;https://drive.google.com/file/d/0B-YvMLVHMKS6TEJyRld3ZVluU00/edit?usp=sharing&quot;&gt;&lt;img src=&quot;/images/generated/project_plan_deliverable/6-30%20Dynabots%20Detailed%20Task%20Plan%20Gantt%20Chart-750x404-e19fed.png&quot; srcset=&quot;/images/generated/project_plan_deliverable/6-30%20Dynabots%20Detailed%20Task%20Plan%20Gantt%20Chart-750x404-e19fed.png 562w, /images/generated/project_plan_deliverable/6-30%20Dynabots%20Detailed%20Task%20Plan%20Gantt%20Chart-750x404-e19fed.png 562w 2x, /images/generated/project_plan_deliverable/6-30%20Dynabots%20Detailed%20Task%20Plan%20Gantt%20Chart-1500x806-e19fed.png 2x, /images/generated/project_plan_deliverable/6-30%20Dynabots%20Detailed%20Task%20Plan%20Gantt%20Chart-750x404-e19fed.png&quot; width=&quot;750&quot; height=&quot;403&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+
+&lt;p&gt;We decided to split the content of the project plan between us. Luckily, we already had a task plan in place, which made a lot of the work easier. We each took sections of the task plan to describe in more detail, as well as sections of the rest of the paper. This included things like what we wanted to accomplish with our future research, our target audience, and what we envisioned the outcome of the project to be.&lt;/p&gt;
+
+&lt;p&gt;Looking back, having to think about resources for each task, as well as the reason for doing each task, was very helpful in focusing our future work goals and how to accomplish them. While this seems like an obviously good thing to do in most task planning exercises, there is nothing like having the first-hand experience of trying to accomplish a task and realizing you forgot something or that it didn’t have the outcome you were hoping for. At least this way we have a better idea of what we need to do in order to make progress on this capstone, and why. Creating this task plan also made us newly aware of deadlines and the amount of work each of us would have to contribute, in a good way. The task plan really gave us a physical reminder of our goals and the road ahead.&lt;/p&gt;
+
+&lt;p&gt;The task plan also served to illustrate just how important clear tasks, goals, and deadlines are to the overall design process. We were able of separate sections of the task plan into stages of the design process, such as exploration and ideation or design and refinement. It also allowed us to see just how those stages transitioned, and the way in which the tasks of one stage affected the tasks in another stage.&lt;/p&gt;
+
+&lt;p&gt;You can download and read the first revision of our project proposal here: &lt;a href=&quot;https://drive.google.com/file/d/0B-YvMLVHMKS6SDBEeHhyZmR4M3c/edit?usp=sharing&quot;&gt;6-30 Project Plan and Proposal.pdf&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/project_plan_deliverable&quot;&gt;Project Plan Deliverable&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 26, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -32,14 +57,16 @@
 
 &lt;p&gt;This triggered a realization that a focus group might be a good approach to answer some of these questions, give us a push in the right direction and see both sides of the story. We took this up as our next and final big research method before moving on to ideation. We plan to recruit three journalists (online only medium, traditional, professional blogger), an editor if we can access someone and three readers (a paid subscriber, free online news readers, and a blogger). We have identified a few potential participants that fall under these categories, our next task is to approach them and schedule the focus group. We plan to keep this focus group conversational with a facilitator initiating conversation. Below are examples of a few potential questions we have started planning out for this. &lt;/p&gt;
 
-&lt;p&gt;What are your perceptions of your readers? What value do you think they get from your content? What value should you receive? (to journalists)
-How, if ever, do you interact with your readers? (to journalists)
-How, if ever, do you interact with the writer? (to readers)
-How do you decide on your pieces? Is this dictated by what readers want, or what your editors plan? (to journalists)
-How do you feel about that? (to readers)
-What do you think about digital vs. print? Give us examples (to both)
-What do you feel would be helpful in creating/consuming? What do you want? (to both)
-Initiate conversation with storyboards, example videos or some prototype.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What are your perceptions of your readers? What value do you think they get from your content? What value should you receive? (to journalists)&lt;/li&gt;
+  &lt;li&gt;How, if ever, do you interact with your readers? (to journalists)&lt;/li&gt;
+  &lt;li&gt;How, if ever, do you interact with the writer? (to readers)&lt;/li&gt;
+  &lt;li&gt;How do you decide on your pieces? Is this dictated by what readers want, or what your editors plan? (to journalists)&lt;/li&gt;
+  &lt;li&gt;How do you feel about that? (to readers)&lt;/li&gt;
+  &lt;li&gt;What do you think about digital vs. print? Give us examples (to both)&lt;/li&gt;
+  &lt;li&gt;What do you feel would be helpful in creating/consuming? What do you want? (to both)&lt;/li&gt;
+  &lt;li&gt;Initiate conversation with storyboards, example videos or some prototype.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;As we started to plan this early user evaluation, we identified that a major challenge with this kind of a project is getting across such an experiential concept to the users at an early stage where it does not exist. Initially we thought of using storyboards of early concepts, however, modes of communication like storyboards might turn out to be too static for the kind of experience we want to convey. The challenge is finding an appropriate way to showcase the possibilities enabled by this technology to the users to get early feedback on desirability. This could mean showing examples of existing technologies to show what is possible, could be smoke and mirror prototypes or a video prototype. We have yet to plan that part. Conducting this focus group is a massive ambitious effort given our limited time frame, however, we believe it is one that will give us tremendous insight into the concept of collaborative co-creation between creators and consumers of content. We plan to conduct this mid-week next week. Today we went through the process of planning our recruitment of participants and setup for focus group. &lt;/p&gt;
 
@@ -216,7 +243,7 @@ movie to discover more about the space and immerse yourself in it.&lt;/p&gt;
 
 &lt;p&gt;We chose to do a stakeholder map because we wanted to better understand the relationships between the stakeholders and how value passes between them. More specifically, we wanted to see what values in addition to money were passing between stakeholders. We started by writing all the stakeholders we could think of on post-it notes. Once that was finished, we grouped related post-it notes on a large sheet of butcher paper. When we had managed to group all of the post-it notes, we came up with overarching group titles for each cluster of stakeholders. The main groups were determined to be publishing platforms, consumers, content creators, platform providers, and funders. The final step was to determine how value passed between the large groups of stakeholders as well as between individual stakeholders.&lt;/p&gt;
 
-&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.87373737373737%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1122-863cc6.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;561&quot; /&gt;&lt;/figure&gt;
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1124-bdb494.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
 
 &lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-1500x1000-42122a.JPG 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; alt=&quot;Stakeholder map digital&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
 
@@ -370,9 +397,7 @@ Explorations in space and time
     <uri></uri>
     <email></email>
   </author>
-  <content type="html">&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 30.925000000000004%;&quot;&gt;&lt;img src=&quot;/images/generated/a_competitive_look_at_the_media_industry/newspaper%20Stack-750x232-a47a86.png&quot; srcset=&quot;/images/generated/a_competitive_look_at_the_media_industry/newspaper%20Stack-750x232-a47a86.png 562w, /images/generated/a_competitive_look_at_the_media_industry/newspaper%20Stack-750x232-a47a86.png 562w 2x, /images/generated/a_competitive_look_at_the_media_industry/newspaper%20Stack-1500x462-a47a86.png 2x, /images/generated/a_competitive_look_at_the_media_industry/newspaper%20Stack-750x232-a47a86.png&quot; alt=&quot;A Competitive Look at the Media Industry (and Where it&#39;s Going&quot; width=&quot;750&quot; height=&quot;231&quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;activity-and-process&quot;&gt;Activity and Process&lt;/h3&gt;
+  <content type="html">&lt;h3 id=&quot;activity-and-process&quot;&gt;Activity and Process&lt;/h3&gt;
 
 &lt;p&gt;While researching the publishing industry for our capstone project, we started thinking:&lt;/p&gt;
 
