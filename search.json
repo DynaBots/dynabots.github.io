@@ -1,6 +1,22 @@
 [
 	
 		{
+		  "title"      : "Journalism Focus Group",
+		  "category"   : "",
+		  "url"        : "/blog/focus_group",
+		  "date"       : "2014-07-01 00:00:00 -0700",
+		  "shortdate"  : "July 01, 2014"
+		} ,
+	
+		{
+		  "title"      : "Ideation Session 1",
+		  "category"   : "",
+		  "url"        : "/blog/ideation_session_1",
+		  "date"       : "2014-06-27 00:00:00 -0700",
+		  "shortdate"  : "June 27, 2014"
+		} ,
+	
+		{
 		  "title"      : "Project Plan Deliverable",
 		  "category"   : "",
 		  "url"        : "/blog/project_plan_deliverable",

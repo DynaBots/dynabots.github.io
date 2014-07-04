@@ -4,13 +4,103 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-07-03T16:09:32-07:00</updated>
+<updated>2014-07-03T18:42:51-07:00</updated>
 <id>/</id>
 <author>
   <name></name>
   <uri>/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Journalism Focus Group]]></title>
+  <link>/blog/focus_group</link>
+  <id>/blog/focus_group</id>
+  <published>2014-07-01T00:00:00-07:00</published>
+  <updated>2014-07-01T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/focus_group/IMG_3835-750x500-5dd6f5.JPG&quot; srcset=&quot;/images/generated/focus_group/IMG_3835-750x500-5dd6f5.JPG 562w, /images/generated/focus_group/IMG_3835-750x500-5dd6f5.JPG 562w 2x, /images/generated/focus_group/IMG_3835-1500x1000-5dd6f5.JPG 2x, /images/generated/focus_group/IMG_3835-750x500-5dd6f5.JPG&quot; alt=&quot;focus group&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;july-1st-journalism-focus-group&quot;&gt;July 1st Journalism Focus Group&lt;/h3&gt;
+
+&lt;p&gt;We had done a lot of secondary research about journalism, and even some primary research with news readers, but we had so far been unable to talk to any journalists. That all changed with our focus group exercise on Tuesday, We brought together an editor, a blogger, and three readers of both print and digital media. We asked the journalists what their perception of their readers were, how stories were chosen, and the value they get out of their work. We asked the readers about the perceived value they received from reading the news, and whether they would like to have more of a voice in the types of stories that were written. Finally, we asked both the journalists and readers about interactions between writers and readers, and their thoughts on digital vs print media. After that discussion ended, we asked the group to look at a couple of our early design concepts and give us feedback.&lt;/p&gt;
+
+&lt;p&gt;Through this exercise, we not only got to practice running a focus group and the setup and assignment of team member responsibilities, we also gained valuable insight into how both readers and writers see the current publishing industry, and where they think it’s going. We got to learn about the reasons our group read certain publications over others, and that trust in the publication is a big theme. We also learned about the role that freelance journalists play in the news that is presented, and the perception around paying for news. Namely, that the interaction model around getting and reading the news might have to fundamentally change in order to persuade the people who currently read news for free to pay for it. Perhaps most importantly, we got feedback on our design concepts, which reinforced the idea that what people say they would like is not necessarily something they would use in reality.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/focus_group/IMG_7798-750x500-7148fb.JPG&quot; srcset=&quot;/images/generated/focus_group/IMG_7798-750x500-7148fb.JPG 562w, /images/generated/focus_group/IMG_7798-750x500-7148fb.JPG 562w 2x, /images/generated/focus_group/IMG_7798-1500x1000-7148fb.JPG 2x, /images/generated/focus_group/IMG_7798-750x500-7148fb.JPG&quot; alt=&quot;focus group&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;This focus group had a large impact on our future design work, because it reinforced some of our assumptions about the news, and tore down others. Many insightful and relevant quotes came out of that focus group, which we can use both to inform our future designs and to provide proof for our design rationale. We also gained a lot of value from showing the group our early design concepts, because getting feedback this early in our ideation process allows us more time to revisit those concepts and iterate on them, or come up with completely new concepts.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/focus_group&quot;&gt;Journalism Focus Group&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on July 01, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Ideation Session 1]]></title>
+  <link>/blog/ideation_session_1</link>
+  <id>/blog/ideation_session_1</id>
+  <published>2014-06-27T00:00:00-07:00</published>
+  <updated>2014-06-27T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;ideation-session-1&quot;&gt;Ideation Session 1&lt;/h3&gt;
+
+&lt;p&gt;Today we met to start ideating design concepts for the first time. Keeping the research we did in mind, we started out by asking ourselves what we might need as a reader and as a journalist.&lt;/p&gt;
+
+&lt;p&gt;As a Reader, we might want:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To share our perspectives. Connect with authors.&lt;/li&gt;
+  &lt;li&gt;To be able to get news from multiple angles and perspectives from around the globe&lt;/li&gt;
+  &lt;li&gt;To know what I’m missing&lt;/li&gt;
+  &lt;li&gt;To see where a piece of content might fall on the spectrum of different viewpoints, to help expose and see where my gaps are.&lt;/li&gt;
+  &lt;li&gt;To be the actual ‘scene’ where the news was created; the notion of being in-the-moment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a Journalist/ Publisher:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We might want to know what readers want to read? What subjects interest them? what combination of local news and global is needed?&lt;/li&gt;
+  &lt;li&gt;What to know about who is reading the content?&lt;/li&gt;
+  &lt;li&gt;A better way for feedback, and communication with readers.&lt;/li&gt;
+  &lt;li&gt;To be able to capture the actual ‘scene’, content and feeling of the place where news is created.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We discussed the importance of different Perspectives, and brainstormed several ideas about how to visualize this. Readers should be able to find multiple nuanced perspectives on a topic. They could have different level of immersion based upon distance from the device. There could possibly be a way to visualize readers’ consumption biases, and explore related perspectives. We could also show different content headlines or summaries based on the  physical orientation of the device, enabling a novel method of interaction.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we were not fully convinced about 3D gestures on a mobile phone, though we can see the depth camera in use for recognition and capture. &lt;/p&gt;
+
+&lt;h3 id=&quot;concepts&quot;&gt;Concepts&lt;/h3&gt;
+
+&lt;p&gt;The concepts are constantly evolving, here we present a snapshot of a few of the concepts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Flipping phone: Flips point of view on a story when you change the phone’s orientation. Shows only part of the new perspective initially so you can still orient yourself as to what you are reading. Recognizes topics from newspaper articles or what’s being watched on TV, and then pulls other similar article on the phone. Users can tilt the phone to reveal related article but written from a different perspective. It helps discovery, and going wide and deep into a topic, but would not necessarily get us to new topics.&lt;/li&gt;
+  &lt;li&gt;Visualize how a story has progressed based on the context of user comments&lt;/li&gt;
+  &lt;li&gt;Parallax interactions and infinite scroll in that a tablet acts more like a roll of paper&lt;/li&gt;
+  &lt;li&gt;Perspective and scale (zooming in from space, Power of Ten video example)&lt;/li&gt;
+  &lt;li&gt;3-way/funhouse mirror metaphor that could show you different perspectives on a story&lt;/li&gt;
+  &lt;li&gt;Virtual tours that trigger information presentations to the reader based on how they view the tour at certain angles (tilting the device?)&lt;/li&gt;
+  &lt;li&gt;3D video &lt;/li&gt;
+  &lt;li&gt;Visualize where points of view in an article fall in a spectrum&lt;/li&gt;
+  &lt;li&gt;Virtual product review desk&lt;/li&gt;
+  &lt;li&gt;Origami is a  flexible, half analog, half digital newspaper with tessellations. It is low cost, but a robust and durable device. It tracks the shape of the paper(screen) and displays news according to the orientation and current shape. The shape can be changed by folding and unfolding it at certain locations. The device can be taken home and updated using a mobile phone.&lt;/li&gt;
+  &lt;li&gt;News stand of the future - big wall where you can view the types of stories people have been viewing while in that location - trend visualization. This might be a communal wall of news. &lt;/li&gt;
+  &lt;li&gt;Projecting 3D interactive content on a flat surface - uses in-air gestures to manipulate it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From this exercise, we learned that we work best when we can visually communicate our ideas to each other, because it gives us something tangible to build on. It also lets us think about form factors and features. We also discovered that brainstorms don’t always have to be very structured. Sometimes an exercise that you planned to do during brainstorms doesn’t work out the way you wanted it to, and you have to be ready to let it go and try something else. For instance, we started out by thinking about how to come up with concepts around our design question, but didn’t come up with too many concepts, just design principles. These design principles ended up leading us to think about design concepts that might meet those principles, and that ended up being much more productive.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/ideation_session_1&quot;&gt;Ideation Session 1&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on June 27, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -243,7 +333,7 @@ movie to discover more about the space and immerse yourself in it.&lt;/p&gt;
 
 &lt;p&gt;We chose to do a stakeholder map because we wanted to better understand the relationships between the stakeholders and how value passes between them. More specifically, we wanted to see what values in addition to money were passing between stakeholders. We started by writing all the stakeholders we could think of on post-it notes. Once that was finished, we grouped related post-it notes on a large sheet of butcher paper. When we had managed to group all of the post-it notes, we came up with overarching group titles for each cluster of stakeholders. The main groups were determined to be publishing platforms, consumers, content creators, platform providers, and funders. The final step was to determine how value passed between the large groups of stakeholders as well as between individual stakeholders.&lt;/p&gt;
 
-&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1124-bdb494.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.87373737373737%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1122-863cc6.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;561&quot; /&gt;&lt;/figure&gt;
 
 &lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-1500x1000-42122a.JPG 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; alt=&quot;Stakeholder map digital&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
 
