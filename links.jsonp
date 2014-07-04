@@ -73,6 +73,16 @@ callback([
   {
     "text": "Project Plan Deliverable",
     "href": "/blog/project_plan_deliverable"
+  } ,
+
+  {
+    "text": "Ideation Session 1",
+    "href": "/blog/ideation_session_1"
+  } ,
+
+  {
+    "text": "Journalism Focus Group",
+    "href": "/blog/focus_group"
   } 
 
 ])
