@@ -83,6 +83,16 @@ callback([
   {
     "text": "Journalism Focus Group",
     "href": "/blog/focus_group"
+  } ,
+
+  {
+    "text": "Nytec Meeting, New Ideas, and Back to Our Roots",
+    "href": "/blog/nytec-meeting-new-ideas-and-back-to-our-roots"
+  } ,
+
+  {
+    "text": "Stitch - A New Concept with A New Direction",
+    "href": "/blog/stich-a-new-concept-with-a-new-direction"
   } 
 
 ])

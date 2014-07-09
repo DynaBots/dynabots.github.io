@@ -4,13 +4,94 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-07-04T15:25:16-07:00</updated>
+<updated>2014-07-09T11:45:38-07:00</updated>
 <id>/</id>
 <author>
   <name></name>
   <uri>/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Stitch - A New Concept with A New Direction]]></title>
+  <link>/blog/stich-a-new-concept-with-a-new-direction</link>
+  <id>/blog/stich-a-new-concept-with-a-new-direction</id>
+  <published>2014-07-08T00:00:00-07:00</published>
+  <updated>2014-07-08T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;After our meeting with Vince Ball at Nytec, we spent many hours developing a brand-new concept in response to our design question. We realized that a successful response, which removes the barrier between creation and consumption of journalism, should harness the power of &lt;strong&gt;citizen journalism at its best&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now, what is citizen journalism, and what does it mean for it to be “at its best”? TED speaker &lt;a href=&quot;http://www.ted.com/talks/paul_lewis_crowdsourcing_the_news&quot;&gt;Paul Lewis’s 2011 TEDxThessaloniki talk&lt;/a&gt; shared a powerful and practical vision for a future of investigative journalism in which reporters activately &lt;strong&gt;motivate&lt;/strong&gt; and &lt;strong&gt;direct&lt;/strong&gt; everyday people to submit the source material needed to uncover the truth. This is a different view of crowdsourcing in which &lt;strong&gt;citizens &lt;em&gt;help&lt;/em&gt; reporters do their jobs&lt;/strong&gt; rather than replace reporters altogether.&lt;/p&gt;
+
+&lt;p&gt;We began to wonder, &lt;strong&gt;what would a crowdsourced platform for immersive, expository content look like?&lt;/strong&gt; How could it enable reporters and readers to build up a living, immersive &lt;em&gt;coverage space&lt;/em&gt;, filled with captures, embedded content, and storytelling? How could it enable &lt;em&gt;faraway walkthroughs&lt;/em&gt;? How could it give context to readers’ eyewitness accounts of a scene? How could it change when and why articles are written in response to events and happenings in the world?&lt;/p&gt;
+
+&lt;p&gt;These are all questions we are thinking about as we further develop our new concept: “Stitch”. We’ve prepared several storyboards describing “Stitch” in action, which you can view below.&lt;/p&gt;
+
+&lt;div class=&quot;video-container vimeo&quot;&gt;&lt;iframe width=&quot;960&quot; height=&quot;540&quot; src=&quot;//player.vimeo.com/video/100335348?portrait=0&amp;amp;title=0&amp;amp;byline=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;what-is-stitch&quot;&gt;What is “Stitch”?&lt;/h3&gt;
+
+&lt;p&gt;“Stitch” is a platform that enables immersive exploration of the news through three-dimensional locations and content embedded within the space, contributed by journalists and readers alike. The platform gives publishers a powerful way to combine the best of professional and citizen journalism: readers can not only immerse themselves the very spaces where the news happens, but they can also use &lt;strong&gt;the depth cameras in their (future) smartphones and tablets&lt;/strong&gt; to seamlessly contribute their own captures to the space.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-kinds-of-content-end-up-in-a-stitch-environment&quot;&gt;What kinds of content end up in a “Stitch” environment?&lt;/h3&gt;
+
+&lt;p&gt;In addition to 3D captures, journalists and readers may embed other media, such as video, photos, audio, or written text, at specific points in the space, thereby giving all reader contributions greater context in the target location. They may also create narrated walkthroughs of the space to highlight specific environment features or content. In this way, the “Stitch” environments also serve as a space to create new stories from contributed content.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-stitch-environments-fit-into-the-news&quot;&gt;How do “Stitch” environments fit into the news?&lt;/h3&gt;
+
+&lt;p&gt;The 3D environments of “Stitch” would be a joint production between journalists and readers in the field, and can be populated in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;As a response to a speculative piece, in which a publication would solicit and incentivize readers to submit their 3D captures, videos, photos, and eyewitness accounts to build up an exploration space for a story.&lt;/li&gt;
+  &lt;li&gt;As a supplement to a published story, where readers would embed their own content, walkthroughs, and other content into an existing or entirely reader-contributed 3D environment.&lt;/li&gt;
+  &lt;li&gt;As a wholly reader-contributed response to an event or happening, which would provide captures and eyewitness accounts from which the publisher may generate their own published stories and other coverage in reference to the 3D environment and the content embedded in it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;who-benefits-from-stitch&quot;&gt;Who benefits from “Stitch”?&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;“Stitch” benefits publishers&lt;/strong&gt; by giving them a powerful new storytelling tool, one which gives unprecedented presence and context to the news they already cover. It also enables them to leverage the contributions of readers around the world to help journalists and readers explore, experience, and capture places they cannot be. This new way to contextualize reader contributions within a physical space also lets journalists validate their own coverage and generate new coverage in response. Finally, the immersive nature of “Stitch” and its deep integration to the publisher’s existing web coverage gives readers a new experience that extends well beyond the snippets of coverage they see elsewhere online.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Stitch” benefits readers&lt;/strong&gt; by offering them a compelling and immersive experience of the news by virtually taking them on-location and letting them explore for themselves. Readers who are actually on-site—especially those in places where the publisher is not—are now empowered to contribute their own captures and experiences to an environment. Further, readers can receive rewards and incentives in exchange for their valuable contributions, such as access to more content on the publisher’s website. In this way, readers are invited as collaborators to get more involved in the work news-making.&lt;/p&gt;
+
+&lt;h3 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h3&gt;
+
+&lt;p&gt;We’ve already begun to expand on our concept with these system component and interaction diagrams:&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/stich-a-new-concept-with-a-new-direction/IMG_7821-750x500-9291e4.JPG&quot; srcset=&quot;/images/generated/stich-a-new-concept-with-a-new-direction/IMG_7821-750x500-9291e4.JPG 562w, /images/generated/stich-a-new-concept-with-a-new-direction/IMG_7821-750x500-9291e4.JPG 562w 2x, /images/generated/stich-a-new-concept-with-a-new-direction/IMG_7821-1500x1000-9291e4.JPG 2x, /images/generated/stich-a-new-concept-with-a-new-direction/IMG_7821-750x500-9291e4.JPG&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/stich-a-new-concept-with-a-new-direction/IMG_7820-750x500-b034bd.JPG&quot; srcset=&quot;/images/generated/stich-a-new-concept-with-a-new-direction/IMG_7820-750x500-b034bd.JPG 562w, /images/generated/stich-a-new-concept-with-a-new-direction/IMG_7820-750x500-b034bd.JPG 562w 2x, /images/generated/stich-a-new-concept-with-a-new-direction/IMG_7820-1500x1000-b034bd.JPG 2x, /images/generated/stich-a-new-concept-with-a-new-direction/IMG_7820-750x500-b034bd.JPG&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;This week we are diving head-first into prototyping interfaces as well.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/blog/stich-a-new-concept-with-a-new-direction&quot;&gt;Stitch - A New Concept with A New Direction&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on July 08, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Nytec Meeting, New Ideas, and Back to Our Roots]]></title>
+  <link>/blog/nytec-meeting-new-ideas-and-back-to-our-roots</link>
+  <id>/blog/nytec-meeting-new-ideas-and-back-to-our-roots</id>
+  <published>2014-07-03T00:00:00-07:00</published>
+  <updated>2014-07-03T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Last week our team had a meeting with Vincent Ball from Nytec, one of our mentors for this project. We visited the Nytec studios and took a tour of their in-house usability and prototyping facilities. We presented some early concepts to Vince and had a very insightful discussion about the problem area of our project.&lt;/p&gt;
+
+&lt;p&gt;The conversation we had with Vince steered our thoughts back towards some ideas we started thinking about early on in the capstone project. At the same time, it also helped us see how some parts of the concepts we had recently been working on needed to be relooked and reconsidered.  Some big insights came out in the course of the conversation, which we considered in the round of ideation that followed, and which has now culminated into a brand-new concept.&lt;/p&gt;
+
+&lt;p&gt;Some of the questions we discussed: how can we leverage the 3D depth camera technology? How do we bring about additional value to content using this technology? What new possibilities are there when this camera technology is in everyday personal devices? This further got us thinking about how all this could change the way news content is created. &lt;strong&gt;What if depth camera technology and the right software enabled anyone to contribute to their own high-quality work to enhance the work of professional journalists?&lt;/strong&gt; This would be a fantastic opportunity to involve people in co-creation of content. In a way, this was us coming back closer to the design question we started out with: the focus on removing the barrier between creation and consumption of content.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/nytec-meeting-new-ideas-and-back-to-our-roots&quot;&gt;Nytec Meeting, New Ideas, and Back to Our Roots&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on July 03, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -333,7 +414,7 @@ movie to discover more about the space and immerse yourself in it.&lt;/p&gt;
 
 &lt;p&gt;We chose to do a stakeholder map because we wanted to better understand the relationships between the stakeholders and how value passes between them. More specifically, we wanted to see what values in addition to money were passing between stakeholders. We started by writing all the stakeholders we could think of on post-it notes. Once that was finished, we grouped related post-it notes on a large sheet of butcher paper. When we had managed to group all of the post-it notes, we came up with overarching group titles for each cluster of stakeholders. The main groups were determined to be publishing platforms, consumers, content creators, platform providers, and funders. The final step was to determine how value passed between the large groups of stakeholders as well as between individual stakeholders.&lt;/p&gt;
 
-&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1124-bdb494.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.87373737373737%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1122-863cc6.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;561&quot; /&gt;&lt;/figure&gt;
 
 &lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-1500x1000-42122a.JPG 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; alt=&quot;Stakeholder map digital&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
 
