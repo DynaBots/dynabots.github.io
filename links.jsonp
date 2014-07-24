@@ -93,6 +93,11 @@ callback([
   {
     "text": "Stitch - A New Concept with A New Direction",
     "href": "/blog/stich-a-new-concept-with-a-new-direction"
+  } ,
+
+  {
+    "text": "Prototyping Up a Storm - Realizing The Stitch Interface",
+    "href": "/blog/prototyping-up-a-storm-realizing-the-stitch-interface"
   } 
 
 ])

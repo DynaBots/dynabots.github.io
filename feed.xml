@@ -4,13 +4,156 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2014-07-09T11:45:38-07:00</updated>
+<updated>2014-07-24T06:31:25-07:00</updated>
 <id>/</id>
 <author>
   <name></name>
   <uri>/</uri>
   <email></email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Prototyping Up a Storm - Realizing The Stitch Interface]]></title>
+  <link>/blog/prototyping-up-a-storm-realizing-the-stitch-interface</link>
+  <id>/blog/prototyping-up-a-storm-realizing-the-stitch-interface</id>
+  <published>2014-07-23T00:00:00-07:00</published>
+  <updated>2014-07-23T00:00:00-07:00</updated>
+  <author>
+    <name></name>
+    <uri></uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;Diving into interface design and prototyping has been a long time coming. After &lt;a href=&quot;http://www.dynabots.com/blog/stich-a-new-concept-with-a-new-direction/&quot;&gt;separating our system into discrete components&lt;/a&gt;, we started planning, sketching, and writing design guidelines for each part of Stitch. Stitch’s most unique features are crowdsourced capture of newsworthy locations and immersive exploration of these spaces, so our prototype work focused closely on these two components.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-capture-experience&quot;&gt;The Capture Experience&lt;/h3&gt;
+
+&lt;p&gt;Early on, we started thinking about the capture experience for Stitch, since a poor experience with this interface could prevent people from even participating in the collaborative work required to build these immersive, annotated exploration spaces we had in mind. Our first question about capture was simply, “how will we actually direct people to capture the environment?” There were many more questions about capture embedded into this one, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How do current 2D and 3D capture interfaces work? What makes a “good” capture experience?&lt;/li&gt;
+  &lt;li&gt;What is the conceptual model behind the capture experience? How will we reflect this in our interface to create an accurate mental model?&lt;/li&gt;
+  &lt;li&gt;How can we direct or encourage people to capture certain portions of a scene that haven’t been captured yet?&lt;/li&gt;
+  &lt;li&gt;How do we balance directed capture with “free capture” to make sure the system has both individual and communal value for people?&lt;/li&gt;
+  &lt;li&gt;What visual appearance should hints and other interface elements have?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2679-750x563-e953ec.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2679-750x563-e953ec.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2679-750x563-e953ec.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2679-1500x1124-e953ec.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2679-750x563-e953ec.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2680-750x563-227ace.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2680-750x563-227ace.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2680-750x563-227ace.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2680-1500x1124-227ace.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2680-750x563-227ace.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;We looked at several existing interfaces, including panorama stitching tools like the iOS Camera app, &lt;a href=&quot;https://www.google.com/maps/about/contribute/photosphere/&quot;&gt;Google Photo Sphere&lt;/a&gt;, &lt;a href=&quot;https://itunes.apple.com/us/app/photosynth/id430065256?mt=8&quot;&gt;the Photosynth panorama app for iOS&lt;/a&gt;, and more. After further discussing the paradigm to use for our capture interface based on existing approaches for depth capture (&lt;a href=&quot;http://research.microsoft.com/en-us/projects/surfacerecon/&quot;&gt;KinectFusion&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=Qe10ExwzCqk&quot;&gt;Project Tango&lt;/a&gt;), we decided to go with a “multiple single-shot” approach, as it felt like a familiar balance between depth capture and taking a standard photo.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2844-750x563-126fe4.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2844-750x563-126fe4.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2844-750x563-126fe4.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2844-1500x1124-126fe4.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2844-750x563-126fe4.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;pinning-down-our-prototype-ambitions&quot;&gt;Pinning Down Our Prototype Ambitions&lt;/h3&gt;
+
+&lt;p&gt;We eagerly started whiteboarding our interface designs and questions, but before long, we needed to very specifically define which prototypes we were actually building, at what level of fidelity, answering which questions. We had even started creating some prototypes, but their direction and purpose were lacking and unclear as a whole group. Hence, we created two frameworks: a Prototype Inventory and a Capture UI Variables summary.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2851-750x563-0c6080.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2851-750x563-0c6080.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2851-750x563-0c6080.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2851-1500x1124-0c6080.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2851-750x563-0c6080.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;The Prototype Inventory listed each of our currently planned prototypes and the motivation behind creating them.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2849-750x563-626ba2.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2849-750x563-626ba2.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2849-750x563-626ba2.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2849-1500x1124-626ba2.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2849-750x563-626ba2.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;The Capture UI Variables framework came out of a discussion that revealed differing opinions on why and how to prototype the capture UI. We used this framework to pin down consistent elements and specifically target specific questions by varying certain parts.&lt;/p&gt;
+
+&lt;h3 id=&quot;explaining-stitch-efficiently-with-a-video-prototype&quot;&gt;Explaining Stitch Efficiently with a Video Prototype&lt;/h3&gt;
+
+&lt;p&gt;We took some time to create a unique one-off prototype: a compact video prototype of Stitch, which defines and explains the system through words and graphics. We created this explanation to help people better grasp the core concepts of the system. Our previous storyboard videos were successful in this regard, so this shorter video aimed to tighten up and compact the storytelling from those, providing a quick, solid, and accessible introduction to Stitch.&lt;/p&gt;
+
+&lt;div class=&quot;video-container vimeo&quot;&gt;&lt;iframe width=&quot;960&quot; height=&quot;540&quot; src=&quot;//player.vimeo.com/video/101036788?portrait=0&amp;amp;title=0&amp;amp;byline=0&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;prototyping-for-mobile-first&quot;&gt;Prototyping for Mobile First&lt;/h3&gt;
+
+&lt;p&gt;For the rest of our specific interfaces, we made the important decision to start prototyping mobile phone interfaces &lt;em&gt;first&lt;/em&gt;. Our belief was that these mobile interfaces should contain the minimum functionality required to realize our desired experience, and from there we could expand those interfaces to accommodate larger screens.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-explore-interface-focus-on-navigation-controls&quot;&gt;The Explore Interface: Focus on Navigation Controls&lt;/h3&gt;
+
+&lt;p&gt;The second tent pole of the Stitch is immersive exploration of a location and content embedded within the space in virtual reality. We thus started conceptualizing and prototyping this component as well, once we had made progress with our capture prototypes.&lt;/p&gt;
+
+&lt;p&gt;We considered navigation controls to be the most challenging part of the explore interface. There were a few reasons for this: one, we had many different movement control paradigms to choose from, many of which come from first-person video gaming on multiple platforms. We wanted this interface to be &lt;strong&gt;approachable for people who weren’t necessarily gamers&lt;/strong&gt;, and we also want to navigation controls that best supported exploration of a real-world space. Early on we looked at the movement controls used in &lt;a href=&quot;https://itunes.apple.com/us/app/epic-citadel/id388888815?mt=8&quot;&gt;Epic Games’ Epic Citadel&lt;/a&gt; for iPad, an Unreal Engine demo with a first-person camera view and “dual analog” movement controls, implemented as on-screen thumb sticks.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2840-750x563-3e1244.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2840-750x563-3e1244.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2840-750x563-3e1244.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2840-1500x1124-3e1244.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2840-750x563-3e1244.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;We chose to prototype navigation controls which optimized certain types of movements. Two of the controls appear on-screen, while one is purely gestural, meant for capitative touch screens.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 133.33333333333331%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2948-750x1000-3493fa.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2948-750x1000-3493fa.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2948-750x1000-3493fa.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2948-1500x2000-3493fa.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2948-750x1000-3493fa.jpg&quot; width=&quot;750&quot; height=&quot;1000&quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Flick and swipe anywhere on-screen to pan and tilt.&lt;/strong&gt; This control supports stationary surveying of a scene, as when looking at a building facade, for example.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A quick pan ring for rapid panning.&lt;/strong&gt; This control supports quickly turning around in-place when tapping and dragging along the outside of a circular control on-screen.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A stick for forward movement and panning while walking.&lt;/strong&gt; Inspired by the video game &lt;a href=&quot;http://en.wikipedia.org/wiki/Metroid_Prime&quot;&gt;Metroid Prime&lt;/a&gt;, this “analog stick” supports tapping and dragging upwards to walk forward, just like the left stick in a standard “dual analog” configuration. Unlike the latter, however, horizontal movement while using our control maps to panning instead of strafing (walking sideways). This change allows the control to support forward movement with banking, as when walking down a curved corridor.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;realizing-a-more-cohesive-experience-with-the-stitch-mobile-app&quot;&gt;Realizing a More Cohesive Experience with the Stitch Mobile App&lt;/h3&gt;
+
+&lt;p&gt;As we started building up these two different interfaces, capture and explore, we realized the need to fit them into a single, cohesive information architecture. Given our familiarity with Apple mobile devices, we chose to fit the interfaces into a mobile app paradigm. We envisioned an app which brought together several pieces of content:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A publisher’s regular news articles&lt;/li&gt;
+  &lt;li&gt;News articles attached with completed immersive spaces&lt;/li&gt;
+  &lt;li&gt;Motivating “capture challenges” soliciting people’s help in capturing and completing work-in-progress scenes&lt;/li&gt;
+  &lt;li&gt;A “Free Capture” mode to support the creation of personal depth captures&lt;/li&gt;
+  &lt;li&gt;A list of previous personal captures&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 100.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/app%20IA-750x750-77ae7b.png&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/app%20IA-750x750-77ae7b.png 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/app%20IA-750x750-77ae7b.png 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/app%20IA-1000x1000-77ae7b.png 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/app%20IA-750x750-77ae7b.png&quot; width=&quot;750&quot; height=&quot;750&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_3006-750x563-b2292f.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_3006-750x563-b2292f.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_3006-750x563-b2292f.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_3006-1500x1124-b2292f.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_3006-750x563-b2292f.jpg&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;dividing-and-conquering-again-and-again&quot;&gt;Dividing and Conquering (Again and Again)&lt;/h3&gt;
+
+&lt;p&gt;We chose to conceptualize a whole system: not a series of discrete components, but a full system, with Stitch. This choice made it difficult to scope down our prototyping ambitions. At one point, we were going to make two interactive capture interface prototypes and several explore interface prototypes using static and motion graphics. We also had begun to consider a tablet interface in addition to the smaller mobile phone interface.&lt;/p&gt;
+
+&lt;p&gt;Dividing our efforts like this shouldn’t have meant uncoordinating them, however, so we reached a point where we had to refocus: &lt;strong&gt;what prototypes were we building, and what did those prototypes help us evaluate?&lt;/strong&gt; We realized we couldn’t just test the individual interface components out of context, so we started to approach our prototyping goals through a more coherent vision. At one point we discussed integrating all our prototype components into a single app to test with. Ultimately this was the right approach for many reasons, but time didn’t permit it—so what did we do?&lt;/p&gt;
+
+&lt;p&gt;We reorganized our prototypes by interface and by medium, which is shown in the whiteboard photo below.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 133.33333333333331%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2917-750x1000-3faa85.jpg&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2917-750x1000-3faa85.jpg 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2917-750x1000-3faa85.jpg 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2917-1500x2000-3faa85.jpg 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/IMG_2917-750x1000-3faa85.jpg&quot; width=&quot;750&quot; height=&quot;1000&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;The plan was to have three levels of fidelity—images, videos, and real-time interactive graphics—and to “glue” these pieces together with two “wireframe” apps, one for mobile phones and another for tablets. This unified approach meant scrapping our second interactive capture prototype and buckling down on app interface design to make a coherent experience. This approach also included the use of motion graphics to prototype the look and feel of immersive walkthroughs on tablets, which had been planned for a while, but had gotten lost in the flurry of interest around capture UI prototyping.&lt;/p&gt;
+
+&lt;h3 id=&quot;prototype-deliverables&quot;&gt;Prototype Deliverables&lt;/h3&gt;
+
+&lt;p&gt;We gave ourselves a tremendous amount of work and a high bar for completeness, so how’d we end up doing? On Monday we presented three prototypes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A comprehensive &lt;a href=&quot;https://popapp.in/w/projects/53cc98c0f9cecd44159d4a18/preview/53cc9903eeeefe26596581b0&quot;&gt;Stitch mobile app interface prototype&lt;/a&gt;, including static mockups of the capture and challenge UIs, as well as some visual variations to more prominently emphasize challenge and capture.&lt;/li&gt;
+  &lt;li&gt;A separate interactive Capture / Challenge UI prototype.&lt;/li&gt;
+  &lt;li&gt;A tablet interface prototype with static, motion, and basic interactive mockups of what scene annotations and navigation might look like.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.25%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.001-750x422-c31815.png&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.001-750x422-c31815.png 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.001-750x422-c31815.png 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.001-1500x842-c31815.png 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.001-750x422-c31815.png&quot; width=&quot;750&quot; height=&quot;421&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;We ended up getting pretty close to our production goals for prototyping, though some parts didn’t quite come together as smoothly as we would’ve hoped. Everyone on the team ended up directly contributing prototype materials, so instead of having a bottleneck of a single visual designer on the team, our bottleneck was instead the work needed to coordinate and bring together everybody’s pieces.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-prototype-evaluation-strategy&quot;&gt;Our Prototype Evaluation Strategy&lt;/h3&gt;
+
+&lt;p&gt;In the end, our prototypes exist to help us answer questions, so the next step is to evaluate the prototypes according to a series of concrete evaluation questions. We have much more work ahead of us to perform formal evaluations with these prototypes, but the sets of questions below set our trajectory.&lt;/p&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.25%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.007-750x422-16e168.png&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.007-750x422-16e168.png 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.007-750x422-16e168.png 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.007-1500x842-16e168.png 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.007-750x422-16e168.png&quot; width=&quot;750&quot; height=&quot;421&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.25%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.008-750x422-e6b0a3.png&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.008-750x422-e6b0a3.png 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.008-750x422-e6b0a3.png 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.008-1500x842-e6b0a3.png 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.008-750x422-e6b0a3.png&quot; width=&quot;750&quot; height=&quot;421&quot; /&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 56.25%;&quot;&gt;&lt;img src=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.009-750x422-fb7d6b.png&quot; srcset=&quot;/images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.009-750x422-fb7d6b.png 562w, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.009-750x422-fb7d6b.png 562w 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.009-1500x842-fb7d6b.png 2x, /images/generated/prototyping-up-a-storm-realizing-the-stitch-interface/Dynabots_Prototype_Presentation_07212014.009-750x422-fb7d6b.png&quot; width=&quot;750&quot; height=&quot;421&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;We gained invaluable insight into these designs almost immediately, thanks to another meeting with Vince Ball from Nytec. Vince helped us work through some very different possibilities for the explore interface’s navigation controls, as well as some other options for the app’s information architecture. Conversations like these are what will help us iterate on our prototype designs with clear purpose and urgency.&lt;/p&gt;
+
+&lt;p&gt;Similarly, a piece of feedback that emerged from our discussions with our mentors and instructors was the importance of Stitch’s &lt;em&gt;explore&lt;/em&gt; interface. While capture remains important, there are potentially multiple ways to capture these immersive 3-D scenes, making exploration and annotation of the environment the most novel and accessible features of the system. In light of this feedback and our short project development schedule, we realize we need to quickly iterate on our explore interface prototype to improve our ability to evaluate it.&lt;/p&gt;
+
+&lt;p&gt;Hence, our goals for prototype evaluation are thus focused on three things right now:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Iterating on our explore interface with a slightly higher level of interactivity to improve our ability to evaluate it.&lt;/li&gt;
+  &lt;li&gt;Taking the prototype out into the world to perform usability evaluations with everyday people who might end up using the app.&lt;/li&gt;
+  &lt;li&gt;Examining the prototypes in detail through heuristic evaluation, with the help of our project mentors.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The big takeaway: stay tuned for (much) more on exploration.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/blog/prototyping-up-a-storm-realizing-the-stitch-interface&quot;&gt;Prototyping Up a Storm - Realizing The Stitch Interface&lt;/a&gt; was originally published by  at &lt;a href=&quot;&quot;&gt;Dynabots&lt;/a&gt; on July 23, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -414,7 +557,7 @@ movie to discover more about the space and immerse yourself in it.&lt;/p&gt;
 
 &lt;p&gt;We chose to do a stakeholder map because we wanted to better understand the relationships between the stakeholders and how value passes between them. More specifically, we wanted to see what values in addition to money were passing between stakeholders. We started by writing all the stakeholders we could think of on post-it notes. Once that was finished, we grouped related post-it notes on a large sheet of butcher paper. When we had managed to group all of the post-it notes, we came up with overarching group titles for each cluster of stakeholders. The main groups were determined to be publishing platforms, consumers, content creators, platform providers, and funders. The final step was to determine how value passed between the large groups of stakeholders as well as between individual stakeholders.&lt;/p&gt;
 
-&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 74.87373737373737%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1122-863cc6.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x562-863cc6.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;561&quot; /&gt;&lt;/figure&gt;
+&lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 75.0%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-1500x1124-bdb494.jpg 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/Stakeholder%20Map%20Photo-750x563-bdb494.jpg&quot; alt=&quot;Stakeholder map&quot; width=&quot;750&quot; height=&quot;562&quot; /&gt;&lt;/figure&gt;
 
 &lt;figure class=&quot;img-container default&quot; style=&quot;padding-bottom: 66.66666666666666%;&quot;&gt;&lt;img src=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; srcset=&quot;/images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG 562w 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-1500x1000-42122a.JPG 2x, /images/generated/devising_a_stakeholder_map_in_20_minutes__connecting_the_dots_between_the_key_players_in_the_problem_space/IMG_7041-750x500-42122a.JPG&quot; alt=&quot;Stakeholder map digital&quot; width=&quot;750&quot; height=&quot;500&quot; /&gt;&lt;/figure&gt;
 
@@ -707,13 +850,6 @@ Usability Testing Image (research —&amp;gt; evaluative research —&amp;gt; ph
 
 &lt;p&gt;Though many of our metrics were specific to the gaming world, we realized that some of these metrics could still be applied to any gesture-based interface. These metrics included the ability to pause a current action, the ability to go backwards through menu levels easily, and the ability to exit a program whenever the user wishes.
 The results of this evaluation have caused us to think about what heuristics would be most valuable in the evaluation of a 3D setting, and which actions would be essential to a gesture-based interaction model. Completing this evaluation has also given us a foundation for how we might go about finding the most essential visuals and tasks that a user might need for a gesture-based interface, and how to evaluate them.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Media Needed:
-Heuristic Evaluation of Wii Image (photos and video folder)
-Consent Form (research —&amp;gt; evaluative Research folder)
-Our Heuristic Evaluation Form (research —&amp;gt; evaluative Research folder)
-Our list of Metrics (research —&amp;gt; evaluative Research folder)
-Our Analysis Spreadsheet (research —&amp;gt; evaluative Research folder)&lt;/em&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;heuristic-evaluation-of-flipboard&quot;&gt;Heuristic Evaluation of Flipboard&lt;/h1&gt;
 
