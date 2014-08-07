@@ -98,6 +98,11 @@ callback([
   {
     "text": "Prototyping Up a Storm - Realizing The Stitch Interface",
     "href": "/blog/prototyping-up-a-storm-realizing-the-stitch-interface"
+  } ,
+
+  {
+    "text": "Evaluation Week (Pay No Attention to that Man Behind the Curtain)",
+    "href": "/evaluation-week"
   } 
 
 ])

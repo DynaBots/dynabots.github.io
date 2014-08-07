@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Evaluation Week (Pay No Attention to that Man Behind the Curtain)",
+		  "category"   : "",
+		  "url"        : "/evaluation-week",
+		  "date"       : "2014-08-04 00:00:00 -0700",
+		  "shortdate"  : "August 04, 2014"
+		} ,
+	
+		{
 		  "title"      : "Prototyping Up a Storm - Realizing The Stitch Interface",
 		  "category"   : "",
 		  "url"        : "/blog/prototyping-up-a-storm-realizing-the-stitch-interface",
